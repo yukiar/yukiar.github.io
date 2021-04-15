@@ -42,7 +42,7 @@
 
       <dl class="information">
         <p align=justify>
-	   <i>Phrase Alignment</i> project aims to extract phrasal paraphrases with syntactic structures through the development of phrase alignment methods between sentential paraphrase pair as well as their applications. Paraphrases are a valuable resource for various applications, such as a conversation system, question answering, and data augmentation for NLP. Little attention has been paid to the syntactic structures in paraphrases, especially phrasal paraphrases, by conventional studies on paraphrase collection. Lack of structural information disturbs generalization of paraphrasal knowledge and hinders applications of paraphrases. 
+	   <i>Phrase Alignment</i> project aims to extract phrasal paraphrases with syntactic structures through the development of phrase alignment methods between sentential paraphrase pair. It also targets on development of applications that benefit from the alignment technology. Paraphrases are a valuable resource for various tasks, such as a conversation system, question answering, and data augmentation for NLP. Little attention has been paid to the syntactic structures in paraphrases, especially phrasal paraphrases. Lack of structural information disturbs the generalization of paraphrasal knowledge and hinders applications of paraphrases.  
        <BR clear="left">
         </p>
         
@@ -56,8 +56,8 @@
          <p>
 		<h2>Publications</h2>
 		<ol>
-		<li> Y. Arase and J. Tsujii: Transfer Fine-Tuning of BERT with Phrasal Paraphrases, in Computer Speech & Language (accepted). </li>  
-		<li> Y. Arase and J. Tsujii: Compositional Phrase Alignment and Beyond, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2020), (Nov. 2020 to appear).</li> 
+		<li> Y. Arase and J. Tsujii: Transfer Fine-Tuning of BERT with Phrasal Paraphrases, in Computer Speech &amp; Language, Vol. 66 (Mar. 2021)[<a href="https://www.sciencedirect.com/science/article/pii/S0885230820300978 ">available online</a>]. </li>
+		<li> Y. Arase and J. Tsujii: Compositional Phrase Alignment and Beyond, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2020), pp. 1611–1623 (Nov. 2020). <a href="https://github.com/yukiar/phrase_alignment_cted">[codes]</a></li> 
 		<li> 
 		Y. Arase and J. Tsujii: 
 		<a href="https://www.aclweb.org/anthology/D19-1542/">Transfer Fine-Tuning: A BERT Case Study</a>, 
@@ -74,18 +74,18 @@
          
          <p>
 		<h2>Datasets and Models</h2>
-			We have created a dataset for evaluation of phrase alignment that 
+			We have created datasets for phrase alignment that 
 			<ul>
-				<li>provides ground-truth tree structures (PTB and HPSG)</li>
-				<li>provides ground-truth phrase alignments</li>
-			</ul>
-			in 201 paraphrasal sentence pairs.<br />
-			The dataset is available at LDC (<a href="https://catalog.ldc.upenn.edu/LDC2018T09">LDC2018T09</a>).
+				<li>provide ground-truth tree structures (HPSG)</li>
+				<li>provide ground-truth phrase alignments</li>
+			</ul>.
+			SPADE, an evaluation dataset with 201 paraphrasal sentence pairs, is available at LDC (<a href="https://catalog.ldc.upenn.edu/LDC2018T09">LDC2018T09</a>).
 			<br />
+			ESPADA, a training (most likely for fine-tuning pre-trained masked language models) dataset with 1,916 paraphrasal sentence pairs will be released from LDC in May 2020.
 			<br />
-			
 			We have shown that fine-tuning BERT models using phrasal paraphrases makes their sentence representations more preferable to sentence pair modeling, i.e., paraphrase identification, semantic textual similarity assessment, and NLI.
-            The fine-tuned BERT models with phrasal paraphrases are available at my <a href="https://github.com/yukiar/TransferFT">GitHub</a> page.
+            The fine-tuned BERT models with phrasal paraphrases are available at my <a href="https://github.com/yukiar/TransferFT">GitHub</a> repository.</br>
+            Codes for phrase alignment with the constrained tree edit distance are available at my <a href="https://github.com/yukiar/phrase_alignment_cted">GitHub</a> repository. </br>
          </p>
          
          
