@@ -2,15 +2,13 @@
 
 Associate Professor 
 
-[Big Data Engineering Laboratory](http://www-bigdata.ist.osaka-u.ac.jp/en/home/)
-[Graduate school of information science and technology](https://www.ist.osaka-u.ac.jp/english/), 
+[Big Data Engineering Laboratory](http://www-bigdata.ist.osaka-u.ac.jp/en/home/),  
+[Graduate school of information science and technology](https://www.ist.osaka-u.ac.jp/english/),  
 [Osaka University](https://www.osaka-u.ac.jp/en), Japan
 
 Yuki Arase is an associate professor at the graduate school of information science and technology, Osaka University, Japan. She was previously an associate researcher at the natural language computing group of Microsoft Research Asia. My primary research interest is in paraphrasing, conversation systems, and educational applications for language learners. She earned her Ph. D. of Information Science at Osaka University in 2010 for research on presenting a large amount of information on small screens.
 
 Apart from research, I enjoy yoga practice, always traveling with a yoga mat in my luggage trolley.
-
-(Last update: 2021/9/30)
 
 [ACL Anthology](https://www.aclweb.org/anthology/people/y/yuki-arase/)
 [Google Scholar](https://scholar.google.com/citations?user=uoL1Wr0AAAAJ&hl=en)
@@ -19,6 +17,8 @@ Apart from research, I enjoy yoga practice, always traveling with a yoga mat in 
 ## News
 * 2 papers accepted to EMNLP2021 and another 2 papers accepted to EMNLP2021-Findings
 * 1 paper accepted to ACL2021
+
+(Last update: 2021/9/30)
 
 ## Selected Recent Publications
 * H. Huang, T. Kajiwara, and Y. Arase. Definition Modelling for Appropriate Specificity, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021) (Nov. 2021 to appear).
