@@ -3,7 +3,7 @@
 ***
 
 [Top](./index.md)  
-[Research] (./research.md)
+[Research](./research.md)
 
 ***
 
