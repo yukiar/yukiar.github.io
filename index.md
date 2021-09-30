@@ -12,9 +12,10 @@ Apart from research, I enjoy yoga practice, always traveling with a yoga mat in 
 
 ***
 
-[Publications](./publication.md)  Research (./research.md)
+[Publications](./publication.md)  
+[Research] (./research.md)
 
-[ACL Anthology](https://www.aclweb.org/anthology/people/y/yuki-arase/) / [Google Scholar](https://scholar.google.com/citations?user=uoL1Wr0AAAAJ&hl=en)|[Semantic Scholar](https://www.semanticscholar.org/author/Yuki-Arase/3043844)
+[ACL Anthology](https://www.aclweb.org/anthology/people/y/yuki-arase/) / [Google Scholar](https://scholar.google.com/citations?user=uoL1Wr0AAAAJ&hl=en) / [Semantic Scholar](https://www.semanticscholar.org/author/Yuki-Arase/3043844)
 
 ***
 
