@@ -1,12 +1,5 @@
 # Publications
 
-***
-
-[Top](./index.md)  
-[Research](./research.md)
-
-***
-
 ## International Conferences
 1. S. Ohashi, J. Takayama, T. Kajiwara, and Y. Arase. Distinct Label Representations for Few-Shot Text Classification, in Proc. of the Annual Meeting of the Association for Computational Linguistics and International Joint Conference on Natural Language Processing (ACL-IJCNLP2021), pp. 831-836 (Aug. 2021).
 1. S. Kadotani, T. Kajiwara, Y. Arase, and M. Onizuka. Edit Distance Based Curriculum Learning for Paraphrase Generation, in Proc. of ACL-IJCNLP Student Research Workshop (SRW), pp. 229-234 (Aug. 2021).
