@@ -17,10 +17,11 @@ Apart from research, I enjoy yoga practice, always traveling with a yoga mat in 
 ***
 
 ## News
+* Will join a poster session at [BlackboxNLP 2021](https://blackboxnlp.github.io/) to present our Findings paper.
 * 2 papers accepted to EMNLP2021 and another 2 papers accepted to EMNLP2021-Findings
 * 1 paper accepted to ACL2021
 
-(Last update: 2021/9/30)
+(Last update: 2021/10/1)
 
 
 ## Research
