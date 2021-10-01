@@ -12,9 +12,7 @@
 
 ***
 
-[Publications](./publication.md)
-
-[ACL Anthology](https://www.aclweb.org/anthology/people/y/yuki-arase/) / [Google Scholar](https://scholar.google.com/citations?user=uoL1Wr0AAAAJ&hl=en) / [Semantic Scholar](https://www.semanticscholar.org/author/Yuki-Arase/3043844)
+[Publications](./publication.md) / [ACL Anthology](https://www.aclweb.org/anthology/people/y/yuki-arase/) / [Google Scholar](https://scholar.google.com/citations?user=uoL1Wr0AAAAJ&hl=en) / [Semantic Scholar](https://www.semanticscholar.org/author/Yuki-Arase/3043844)
 
 ***
 
@@ -32,17 +30,17 @@ For more details, please see [Research](./research.md) page.
 Paraphrasing is the basis for various monolingual language transformations, such as text simplification, rewriting, and style transfer. 
 We work on both recognition and generation. The core technologies are smart phrase alignment and controllable paraphrase generation. 
 
-Related papers: [DIRECT](TBA), [phrase alignment](https://aclanthology.org/2020.emnlp-main.125/),[Round-trip translation for paraphrasing](https://ojs.aaai.org//index.php/AAAI/article/view/6314), [SAPPHIRE](https://aclanthology.org/2020.lrec-1.847/)
+Related papers: [DIRECT](), [phrase alignment](https://aclanthology.org/2020.emnlp-main.125/), [Round-trip translation for paraphrasing](https://ojs.aaai.org//index.php/AAAI/article/view/6314), [SAPPHIRE](https://aclanthology.org/2020.lrec-1.847/)
 
 #### Representation learning
 Vector representation of words, phrases, and sentences are the very basis for NLP research. We create sophisticated representations for word meaning in context and multilingual sentences, develop efficient pre-trained models for words and phrases, and generate representations for few-shot learning.   
 
-Related papers: [WiC representation](TBA), [Disentangling sentence meaning](TBA), [transfer fine-tuning](https://aclanthology.org/D19-1542/), [label representation for few-shot learning](https://aclanthology.org/2021.acl-short.105/), [tiny word embedding](https://aclanthology.org/2020.coling-main.103/)
+Related papers: [WiC representation](), [Disentangling sentence meaning](), [transfer fine-tuning](https://aclanthology.org/D19-1542/), [label representation for few-shot learning](https://aclanthology.org/2021.acl-short.105/), [tiny word embedding](https://aclanthology.org/2020.coling-main.103/)
 
 #### NLP for language education & learning
 As a central application of our research outcomes, we develop technologies for language learning and education supports. Our technologies cover from fine-grained lexical-level transformations to coarse-grained text-level processing.
 
-Related papers: [definition generation](TBA), [controllable text simplification](https://aclanthology.org/P19-2036/), [CEFR-based lexical simplification](https://aclanthology.org/L18-1514/)
+Related papers: [definition generation](), [controllable text simplification](https://aclanthology.org/P19-2036/), [CEFR-based lexical simplification](https://aclanthology.org/L18-1514/)
 
 
 ## Selected Recent Publications
