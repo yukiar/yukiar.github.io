@@ -3,8 +3,8 @@
 More information will be added soon. 
 
 ## Paraphrase generation & recognition
-Paraphrasing is the basis for various monolingual language transformations, such as text simplification, rewriting, and style transfer. 
-We work on both paraphrase recognition and generation. The core technologies are smart phrase alignment and controllable paraphrase generation. 
+Paraphrasing takes various forms of monolingual text transformations, such as text simplification, rewriting, and style transfer. 
+We work on both recognition and generation. The core technologies are intelligent phrase alignment and controllable paraphrase generation. 
 
 Phrase alignment aims to identify phrasal paraphrases with syntactic structures. This technology is also valuable for estimating semantic similarities between texts for evaluating text generation models such as machine translation and automatic QA. 
 
@@ -27,7 +27,10 @@ We have created datasets for phrase alignment that (1) provide ground-truth tree
 
 
 ### Representation learning
-Vector representation of words, phrases, and sentences are the very basis for NLP research. We create sophisticated representations for word meaning in context and multilingual sentences, develop efficient pre-trained models for words and phrases, and generate representations for few-shot learning.   
+Vector representation of words, phrases, and sentences are the very basis for NLP research. We study  
+1. sophisticated representations for word meaning in context and multilingual sentences,
+2. efficient pre-trained models for words and phrases, and
+3. representations for few-shot learning.   
 
 ##### Publications
 * N. Tiyajamorn, T. Kajiwara, Y. Arase, and M. Onizuka. Language-agnostic Representation from Multilingual Sentence Encoders for Cross-lingual Similarity Estimation, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021) (Nov. 2021 to appear).
@@ -40,7 +43,8 @@ Vector representation of words, phrases, and sentences are the very basis for NL
 
 
 ## NLP for language education & learning
-As a central application of our research outcomes, we develop technologies for language learning and education supports. Our technologies cover from fine-grained lexical-level transformations to coarse-grained text-level processing.
+As a central application of our research outcomes, we develop technologies for language learning and education supports. 
+Our technology covers from fine-grained lexical-level transformations to coarse-grained text-level processing.
 
 ##### Publications
 * H. Huang, T. Kajiwara, and Y. Arase. Definition Modelling for Appropriate Specificity, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021) (Nov. 2021 to appear).
