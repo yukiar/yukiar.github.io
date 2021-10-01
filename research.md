@@ -35,6 +35,7 @@ Vector representation of words, phrases, and sentences are the very basis for NL
 * S. Ohashi, J. Takayama, T. Kajiwara, and Y. Arase. Distinct Label Representations for Few-Shot Text Classification, in Proc. of the Annual Meeting of the Association for Computational Linguistics and International Joint Conference on Natural Language Processing (ACL-IJCNLP2021), pp. 831-836 (Aug. 2021).
 * Y. Arase and J. Tsujii: Transfer Fine-Tuning of BERT with Phrasal Paraphrases, in Computer Speech & Language, Vol. 66 (Mar. 2021) [paper](https://www.sciencedirect.com/science/article/pii/S0885230820300978) [code & model](https://github.com/yukiar/TransferFT)
 * S. Ohashi, M. Isogawa, T. Kajiwara and Y. Arase: Tiny Word Embeddings Using Globally Informed Reconstruction, in Proc. of International Conference on Computational Linguistics (COLING2020), pp. 1199–1203 (Dec. 2020). 
+* S. Ohashi, J. Takayama, T. Kajiwara, C. Chu, Y. Arase. Text Classification with Negative Supervision, in Proc. of Annual Meeting of the Association for Computational Linguistics (ACL 2020), pp. 351–357 (July 2020).
 * Y. Arase and J. Tsujii: Transfer Fine-Tuning: A BERT Case Study, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2019), pp. 5396–5407 (Nov. 2019).
 
 
