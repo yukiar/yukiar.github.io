@@ -33,7 +33,7 @@ We work on both recognition and generation. The core technologies are intelligen
 Related papers: [DIRECT](), [phrase alignment](https://aclanthology.org/2020.emnlp-main.125/), [Round-trip translation for paraphrasing](https://ojs.aaai.org//index.php/AAAI/article/view/6314), [SAPPHIRE](https://aclanthology.org/2020.lrec-1.847/)
 
 #### Representation learning
-Vector representation of words, phrases, and sentences are the very basis for NLP research. We study  
+Vector representation of words, phrases, and sentences are the very basis for NLP research. We study
 1. sophisticated representations for word meaning in context and multilingual sentences,
 2. efficient pre-trained models for words and phrases, and
 3. representations for few-shot learning.   

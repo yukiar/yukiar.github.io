@@ -27,7 +27,7 @@ We have created datasets for phrase alignment that (1) provide ground-truth tree
 
 
 ### Representation learning
-Vector representation of words, phrases, and sentences are the very basis for NLP research. We study  
+Vector representation of words, phrases, and sentences are the very basis for NLP research. We study
 1. sophisticated representations for word meaning in context and multilingual sentences,
 2. efficient pre-trained models for words and phrases, and
 3. representations for few-shot learning.   
