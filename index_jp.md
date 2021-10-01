@@ -44,7 +44,7 @@ Related papers: [WiC representation](), [disentangling sentence meaning](), [tra
 As a central application of our research outcomes, we develop technologies for language learning and education supports. 
 Our technology covers from fine-grained lexical-level transformations to coarse-grained text-level processing.
 
-Related papers: [definition generation](), [controllable text simplification](https://aclanthology.org/P19-2036/), [CEFR-based lexical simplification](https://aclanthology.org/L18-1514/)
+Related papers: [definition generation](), [controllable text simplification](https://aclanthology.org/P19-2036/), [CEFR-based lexical simplification](https://aclanthology.org/L18-1514/), [fill-in-the-blank quiz generation](https://aclanthology.org/P13-2043/)
 
 
 ## Selected Recent Publications

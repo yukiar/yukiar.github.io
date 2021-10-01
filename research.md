@@ -13,9 +13,10 @@ Current text generation models perform mostly black-box; we don't know what come
 ##### Publications
 * Y. Arase and J. Tsujii: Compositional Phrase Alignment and Beyond, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2020), pp. 1611–1623 (Nov. 2020). 
 [code](https://github.com/yukiar/phrase_alignment_cted)
-* T. Kajiwara, B. Miura, and Y. Arase. Monolingual Transfer Learning via Bilingual Translators for Style-Sensitive Paraphrase Generation, in Proc. of the AAAI Conference on Artificial Intelligence (AAAI 2020), pp. 8042-8049, (Feb. 2020).
+* J. Takayama and Y. Arase: Consistent Response Generation with Controlled Specificity. in Proc. of Findings of the Association for Computational Linguistics: EMNLP 2020, pp. 4418–4427 (Nov. 2020). 
 * M. Yoshinaka, T. Kajiwara, and Y. Arase. SAPPHIRE: Simple Aligner for Phrasal Paraphrase with Hierarchical Representation, in Proc. of Language Resources and Evaluation Conference (LREC 2020), pp. 6861–6867 (May 2020).
 * D. Nishihara, T. Kajiwara, and Y. Arase: Controllable Text Simplification with Lexical Constraint, in Proc. of Annual Meeting of the Association for Computational Linguistics: Student Research Workshop, pp. 260-266, (July 2019).
+* T. Kajiwara, B. Miura, and Y. Arase. Monolingual Transfer Learning via Bilingual Translators for Style-Sensitive Paraphrase Generation, in Proc. of the AAAI Conference on Artificial Intelligence (AAAI 2020), pp. 8042-8049, (Feb. 2020).
 * Y. Arase and J. Tsujii: SPADE: Evaluation Dataset for Monolingual Phrase Alignment, in Proc. of Language Resources and Evaluation Conference (LREC 2018), (May 2018).
 * Y. Arase and J. Tsujii: Monolingual Phrase Alignment on Parse Forests, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2017), pp. 1-11 (Sept. 2017).
 
@@ -40,7 +41,7 @@ Vector representation of words, phrases, and sentences are the very basis for NL
 * S. Ohashi, M. Isogawa, T. Kajiwara and Y. Arase: Tiny Word Embeddings Using Globally Informed Reconstruction, in Proc. of International Conference on Computational Linguistics (COLING2020), pp. 1199–1203 (Dec. 2020). 
 * S. Ohashi, J. Takayama, T. Kajiwara, C. Chu, Y. Arase. Text Classification with Negative Supervision, in Proc. of Annual Meeting of the Association for Computational Linguistics (ACL 2020), pp. 351–357 (July 2020).
 * Y. Arase and J. Tsujii: Transfer Fine-Tuning: A BERT Case Study, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2019), pp. 5396–5407 (Nov. 2019).
-
+* K. Ashihara, T. Kajiwara, Y. Arase and S. Uchida: Contextualized context2vec, in Proc. of Workshop on Noisy User-generated Text (W-NUT 2019), pp. 397–406 (Nov. 2019).
 
 ## NLP for language education & learning
 As a central application of our research outcomes, we develop technologies for language learning and education supports. 
@@ -51,7 +52,7 @@ Our technology covers from fine-grained lexical-level transformations to coarse-
 * K. Ashihara, T. Kajiwara, Y. Arase and S. Uchida: Contextualized context2vec, in Proc. of Workshop on Noisy User-generated Text (W-NUT 2019), pp. 397–406 (Nov. 2019).
 * D. Nishihara, T. Kajiwara, and Y. Arase: Controllable Text Simplification with Lexical Constraint, in Proc. of Annual Meeting of the Association for Computational Linguistics: Student Research Workshop, pp. 260-266, (July 2019).
 * S. Uchida, S. Takada and Y. Arase: CEFR-based Lexical Simplification Dataset, in Proc. of Language Resources and Evaluation Conference (LREC 2018), (May 2018).
-
+* K. Sakaguchi, Y. Arase, and M. Komachi: Discriminative Approach to Fill-in-the-blank Quiz Generation for Language Learners, in Proc. of Annual Meeting of the Association for Computational Linguistics (ACL 2013), pp. 238-242 (Aug. 2013).
 
 ##### Datasets
 * [CEFR-based lexical substitution dataset](../share/CEFR-LP.zip)
