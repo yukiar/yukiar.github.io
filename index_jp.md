@@ -5,8 +5,9 @@
 [ビッグデータ工学講座 (鬼塚研究室)](https://www.ist.osaka-u.ac.jp/japanese/)  
 准教授  
 
-Email: arase[at]ist.osaka-u.ac.jp
-Twitter: @Yuki_arase
+Email: arase[at]ist.osaka-u.ac.jp  
+Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
+
 
 2006年大阪大学工学部電子情報エネルギー工学科卒業。
 2007年同大学院情報科学研究科博士前期課程、2010年同博士後期課程修了。博士（情報科学）。同年、北京のMicrosoft Researchに入社、自然言語処理に関する研究開発に従事。

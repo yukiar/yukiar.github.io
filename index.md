@@ -6,8 +6,8 @@ Associate Professor ([Japanese page](./index_jp.md))
 [Graduate school of information science and technology](https://www.ist.osaka-u.ac.jp/english/),  
 [Osaka University](https://www.osaka-u.ac.jp/en), Japan  
 
-Email: arase[at]ist.osaka-u.ac.jp
-Twitter: @Yuki_arase
+Email: arase[at]ist.osaka-u.ac.jp  
+Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 
 Yuki Arase is an associate professor at the graduate school of information science and technology, Osaka University, Japan. She was previously an associate researcher at the natural language computing group of Microsoft Research Asia. Her primary research interest is in paraphrasing, conversation systems, and educational applications for language learners. She earned her Ph. D. of Information Science at Osaka University in 2010 for research on presenting a large amount of information on small screens.
 
