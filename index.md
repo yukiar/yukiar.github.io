@@ -71,5 +71,6 @@ Related papers: [definition generation](), [controllable text simplification](ht
 ## Academic Service
 * Area Chair: ACL2020, 2021, EMNLP2021
 * Publication Chair for ACL2020 
+* PC Chair: [SNL2021](http://www.am.sanken.osaka-u.ac.jp/SNL2021/index.html)
 * Reviewer: ACL, EMNLP, NAACL, EACL, TACL, Computational Linguistics, etc.  
 

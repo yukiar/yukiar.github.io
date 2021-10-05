@@ -71,6 +71,7 @@ Related papers: [definition generation](), [controllable text simplification](ht
 ## Academic Service
 * Area Chair: ACL2020, 2021, EMNLP2021
 * Publication Chair for ACL2020 
+* PC Chair: [SNL2021](http://www.am.sanken.osaka-u.ac.jp/SNL2021/index.html)
 * 言語処理学会 理事（2020年3月～）
 * 情報処理学会自然言語処理研究会 幹事（2015年4月～2019年3月）
 * 言語処理学会論文誌「自然言語処理」編集委員（2015年9月～2019年9月）
