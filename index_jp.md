@@ -21,11 +21,11 @@ Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 ***
 
 ## News
-* Will join a poster session at [BlackboxNLP 2021](https://blackboxnlp.github.io/) to present our Findings paper.
+* Will join a poster session at [BlackboxNLP 2021](https://blackboxnlp.github.io/) to present our [word-in-context representation paper](https://aclanthology.org/2021.findings-emnlp.49/).
 * 2 papers accepted to EMNLP2021 and another 2 papers accepted to EMNLP2021-Findings
 * 1 paper accepted to ACL2021
 
-(Last update: 2021/10/1)
+(Last update: 2021/11/5)
 
 
 ## Research
@@ -35,7 +35,7 @@ For more details, please see [Research](./research.md) page.
 Paraphrasing takes various forms of monolingual text transformations, such as text simplification, rewriting, and style transfer. 
 We work on both recognition and generation. The core technologies are intelligent phrase alignment and controllable paraphrase generation. 
 
-Related papers: [DIRECT](), [phrase alignment](https://aclanthology.org/2020.emnlp-main.125/), [Round-trip translation for paraphrasing](https://ojs.aaai.org//index.php/AAAI/article/view/6314), [SAPPHIRE](https://aclanthology.org/2020.lrec-1.847/)
+Related papers: [DIRECT](https://aclanthology.org/2021.findings-emnlp.170/), [phrase alignment](https://aclanthology.org/2020.emnlp-main.125/), [Round-trip translation for paraphrasing](https://ojs.aaai.org//index.php/AAAI/article/view/6314), [SAPPHIRE](https://aclanthology.org/2020.lrec-1.847/)
 
 #### Representation learning
 Vector representation of words, phrases, and sentences are the very basis for NLP research. We study
@@ -43,20 +43,20 @@ Vector representation of words, phrases, and sentences are the very basis for NL
 2. efficient pre-trained models for words and phrases, and
 3. representations for few-shot learning.   
 
-Related papers: [WiC representation](), [disentangling sentence meaning](), [transfer fine-tuning](https://aclanthology.org/D19-1542/), [label representation for few-shot learning](https://aclanthology.org/2021.acl-short.105/), [tiny word embedding](https://aclanthology.org/2020.coling-main.103/)
+Related papers: [WiC representation](https://aclanthology.org/2021.findings-emnlp.49/), [disentangling sentence meaning](https://aclanthology.org/2021.emnlp-main.612/), [transfer fine-tuning](https://aclanthology.org/D19-1542/), [label representation for few-shot learning](https://aclanthology.org/2021.acl-short.105/), [tiny word embedding](https://aclanthology.org/2020.coling-main.103/)
 
 #### NLP for language education & learning
 As a central application of our research outcomes, we develop technologies for language learning and education supports. 
 Our technology covers from fine-grained lexical-level transformations to coarse-grained text-level processing.
 
-Related papers: [definition generation](), [controllable text simplification](https://aclanthology.org/P19-2036/), [CEFR-based lexical simplification](https://aclanthology.org/L18-1514/), [fill-in-the-blank quiz generation](https://aclanthology.org/P13-2043/)
+Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main.194/), [controllable text simplification](https://aclanthology.org/P19-2036/), [CEFR-based lexical simplification](https://aclanthology.org/L18-1514/), [fill-in-the-blank quiz generation](https://aclanthology.org/P13-2043/)
 
 
 ## Selected Recent Publications
-* H. Huang, T. Kajiwara, and Y. Arase. Definition Modelling for Appropriate Specificity, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021) (Nov. 2021 to appear).
-* N. Tiyajamorn, T. Kajiwara, Y. Arase, and M. Onizuka. Language-agnostic Representation from Multilingual Sentence Encoders for Cross-lingual Similarity Estimation, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021) (Nov. 2021 to appear).
-* Y. Arase and T. Kajiwara. Distilling Word Meaning in Context from Pre-trained Language Model, in Findings of Conference on Empirical Methods in Natural Language Processing (Nov. 2021 to appear).
-* J. Takayama, T. Kajiwara, and Y. Arase. DIRECT: Direct and Indirect Responses in Conversational Text Corpus, in Findings of Conference on Empirical Methods in Natural Language Processing (Nov. 2021 to appear).
+* H. Huang, T. Kajiwara, and Y. Arase. Definition Modelling for Appropriate Specificity, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021), pp. 2499–2509 (Nov. 2021).
+* N. Tiyajamorn, T. Kajiwara, Y. Arase, and M. Onizuka. Language-agnostic Representation from Multilingual Sentence Encoders for Cross-lingual Similarity Estimation, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021), pp. 7764–7774 (Nov. 2021).
+* Y. Arase and T. Kajiwara. Distilling Word Meaning in Context from Pre-trained Language Model, in Findings of the Association for Computational Linguistics: EMNLP 2021, pp. 534–546 (Nov. 2021). [code](https://github.com/yukiar/distil_wic)
+* J. Takayama, T. Kajiwara, and Y. Arase. DIRECT: Direct and Indirect Responses in Conversational Text Corpus, in Findings of the Association for Computational Linguistics: EMNLP 2021, pp. 1980–1989 (Nov. 2021).
 * S. Ohashi, J. Takayama, T. Kajiwara, and Y. Arase. Distinct Label Representations for Few-Shot Text Classification, in Proc. of the Annual Meeting of the Association for Computational Linguistics and International Joint Conference on Natural Language Processing (ACL-IJCNLP2021), pp. 831-836 (Aug. 2021).
 * Y. Arase and J. Tsujii: Transfer Fine-Tuning of BERT with Phrasal Paraphrases, in Computer Speech & Language, Vol. 66 (Mar. 2021). [paper](https://www.sciencedirect.com/science/article/pii/S0885230820300978) 
 * S. Ohashi, M. Isogawa, T. Kajiwara and Y. Arase: Tiny Word Embeddings Using Globally Informed Reconstruction, in Proc. of International Conference on Computational Linguistics (COLING2020), pp. 1199–1203 (Dec. 2020). 

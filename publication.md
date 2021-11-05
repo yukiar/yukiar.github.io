@@ -1,6 +1,10 @@
 # Publications
 
 ## International Conferences
+1. H. Huang, T. Kajiwara, and Y. Arase. Definition Modelling for Appropriate Specificity, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021), pp. 2499–2509 (Nov. 2021).
+1. N. Tiyajamorn, T. Kajiwara, Y. Arase, and M. Onizuka. Language-agnostic Representation from Multilingual Sentence Encoders for Cross-lingual Similarity Estimation, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021), pp. 7764–7774 (Nov. 2021).
+1. Y. Arase and T. Kajiwara. Distilling Word Meaning in Context from Pre-trained Language Model, in Findings of the Association for Computational Linguistics: EMNLP 2021, pp. 534–546 (Nov. 2021). [code](https://github.com/yukiar/distil_wic)
+1. J. Takayama, T. Kajiwara, and Y. Arase. DIRECT: Direct and Indirect Responses in Conversational Text Corpus, in Findings of the Association for Computational Linguistics: EMNLP 2021, pp. 1980–1989 (Nov. 2021).
 1. S. Ohashi, J. Takayama, T. Kajiwara, and Y. Arase. Distinct Label Representations for Few-Shot Text Classification, in Proc. of the Annual Meeting of the Association for Computational Linguistics and International Joint Conference on Natural Language Processing (ACL-IJCNLP2021), pp. 831-836 (Aug. 2021).
 1. S. Kadotani, T. Kajiwara, Y. Arase, and M. Onizuka. Edit Distance Based Curriculum Learning for Paraphrase Generation, in Proc. of ACL-IJCNLP Student Research Workshop (SRW), pp. 229-234 (Aug. 2021).
 1. S. Ohashi, M. Isogawa, T. Kajiwara and Y. Arase: Tiny Word Embeddings Using Globally Informed Reconstruction, in Proc. of International Conference on Computational Linguistics (COLING2020), pp. 1199–1203 (Dec. 2020). 
