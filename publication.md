@@ -61,6 +61,7 @@
 
 
 ## Journals
+1. 高山隼矢, 梶原智之, 荒瀬由紀. 対話における間接的応答と直接的応答からなる言い換えコーパスの構築と分析. 自然言語処理Vol. 29, No. 1 (2022年3月, to appear).
 1. 吉仲真人、梶原智之、荒瀬由紀: 単語分散表現に基づく単一言語内フレーズアラインメント. 自然言語処理 Vol. 28, No. 2, pp. 508-531 (2021年6月).
 1. 大橋空，五十川真生，梶原智之，荒瀬由紀: 大域的な類似度に基づく単語分散表現の圧縮. 自然言語処理 Vol. 28, No. 1, pp. 235-252 (2021年3月).
 1. Y. Kawara, C. Chu, and Y. Arase: Preordering Encoding on Transformer for Translation, in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 29, pp. 644-655, (Jan. 2021).
