@@ -27,7 +27,7 @@ We have created datasets for phrase alignment that (1) provide ground-truth tree
 * ESPADA, a training (most likely for fine-tuning pre-trained masked language models) dataset with 1,916 paraphrasal sentence pairs: [LDC2021T10](https://catalog.ldc.upenn.edu/LDC2021T10).
 
 
-### Representation learning
+## Representation learning
 Vector representation of words, phrases, and sentences are the very basis for NLP research. We study
 1. sophisticated representations for word meaning in context and multilingual sentences,
 2. efficient pre-trained models for words and phrases, and
