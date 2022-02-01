@@ -20,11 +20,9 @@ Apart from research, Yuki enjoys yoga practice, always traveling with a yoga mat
 ***
 
 ## News
-* Will join a poster session at [BlackboxNLP 2021](https://blackboxnlp.github.io/) to present our [word-in-context representation paper](https://aclanthology.org/2021.findings-emnlp.49/).
-* 2 papers accepted to EMNLP2021 and another 2 papers accepted to EMNLP2021-Findings
-* 1 paper accepted to ACL2021
+* I have received some inquiries about our lexical substitution corpora. They are downloadable from the [research](./research.md) page! 
 
-(Last update: 2021/11/5)
+(Last update: 2022/02/01)
 
 
 ## Research

@@ -55,5 +55,5 @@ Our technology covers from fine-grained lexical-level transformations to coarse-
 * K. Sakaguchi, Y. Arase, and M. Komachi: Discriminative Approach to Fill-in-the-blank Quiz Generation for Language Learners, in Proc. of Annual Meeting of the Association for Computational Linguistics (ACL 2013), pp. 238-242 (Aug. 2013).
 
 ##### Datasets
-* [CEFR-based lexical substitution dataset](../share/CEFR-LP.zip)
-* [CEFR-based lexical simplification dataset](../share/lex-simplification.zip)
+* [CEFR-LP: CEFR-based lexical substitution dataset](../share/CEFR-LP.zip)
+* [CEFR-LS: CEFR-based lexical simplification dataset](../share/lex-simplification.zip)

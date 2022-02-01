@@ -21,11 +21,9 @@ Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 ***
 
 ## News
-* Will join a poster session at [BlackboxNLP 2021](https://blackboxnlp.github.io/) to present our [word-in-context representation paper](https://aclanthology.org/2021.findings-emnlp.49/).
-* 2 papers accepted to EMNLP2021 and another 2 papers accepted to EMNLP2021-Findings
-* 1 paper accepted to ACL2021
+* 我々が作成した Lexical substitution コーパスについて問い合わせをいただきました。[Research](./research.md) ページよりダウンロードできます。
 
-(Last update: 2021/11/5)
+(Last update: 2022/02/01)
 
 
 ## Research
