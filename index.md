@@ -13,6 +13,9 @@ Yuki Arase is an associate professor at the graduate school of information scien
 
 Apart from research, Yuki enjoys yoga practice, always traveling with a yoga mat in her luggage trolley.
 
+I'm recruiting PhD students starting from Oct. 2022 or Apr. 2023. Please send me your CV with a publication list if you are interested. 
+Note that we do not have "research student" positions.
+
 ***
 
 [Publications](./publication.md) / [ACL Anthology](https://www.aclweb.org/anthology/people/y/yuki-arase/) / [Google Scholar](https://scholar.google.com/citations?user=uoL1Wr0AAAAJ&hl=en) / [Semantic Scholar](https://www.semanticscholar.org/author/Yuki-Arase/3043844)

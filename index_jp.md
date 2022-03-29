@@ -14,6 +14,9 @@ Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 2014年より大阪大学大学院情報科学研究科マルチメディア工学専攻准教授、現在に至る。
 言い換え表現抽出、対話システム、言語学習支援技術に興味を持つ。
 
+2022年10月もしくは2023年4月スタートの博士後期課程学生を募集しています。興味のある方は業績リスト付きのCVをお送りください。
+※ 研究生の募集はしていません。
+
 ***
 
 [Publications](./publication.md) / [ACL Anthology](https://www.aclweb.org/anthology/people/y/yuki-arase/) / [Google Scholar](https://scholar.google.com/citations?user=uoL1Wr0AAAAJ&hl=en) / [Semantic Scholar](https://www.semanticscholar.org/author/Yuki-Arase/3043844)
