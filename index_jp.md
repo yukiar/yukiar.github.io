@@ -24,9 +24,10 @@ Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 ***
 
 ## News
+* 「自然言語処理」に論文が2編採択されました。
 * 我々が作成した Lexical substitution コーパスについて問い合わせをいただきました。[Research](./research.md) ページよりダウンロードできます。
 
-(Last update: 2022/02/01)
+(Last update: 2022/03/30)
 
 
 ## Research
@@ -54,7 +55,8 @@ Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main
 
 
 ## Selected Recent Publications
-* 高山隼矢, 梶原智之, 荒瀬由紀. 対話における間接的応答と直接的応答からなる言い換えコーパスの構築と分析. 自然言語処理Vol. 29, No. 1 (2022年3月, to appear).
+* 西原哲郎, 岩本裕司, 吉仲真人, 梶原智之, 荒瀬由紀, 二宮崇. 多言語雑音除去自己符号化器による教師なし品質推定. 自然言語処理 Vol. 29, No. 2 (2022年6月, to appear).
+* 高山隼矢, 梶原智之, 荒瀬由紀. 対話における間接的応答と直接的応答からなる言い換えコーパスの構築と分析. 自然言語処理Vol. 29, No. 1, pp. 84-111 (2022年3月).* H. Huang, T. Kajiwara, and Y. Arase. Definition Modelling for Appropriate Specificity, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021), pp. 2499–2509 (Nov. 2021).
 * H. Huang, T. Kajiwara, and Y. Arase. Definition Modelling for Appropriate Specificity, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021), pp. 2499–2509 (Nov. 2021).
 * N. Tiyajamorn, T. Kajiwara, Y. Arase, and M. Onizuka. Language-agnostic Representation from Multilingual Sentence Encoders for Cross-lingual Similarity Estimation, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021), pp. 7764–7774 (Nov. 2021).
 * Y. Arase and T. Kajiwara. Distilling Word Meaning in Context from Pre-trained Language Model, in Findings of the Association for Computational Linguistics: EMNLP 2021, pp. 534–546 (Nov. 2021). [code](https://github.com/yukiar/distil_wic)
