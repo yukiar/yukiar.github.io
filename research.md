@@ -11,6 +11,7 @@ Phrase alignment aims to identify phrasal paraphrases with syntactic structures.
 Current text generation models perform mostly black-box; we don't know what comes out until the end. In paraphrasing, we are interested in realising controllability in text generation to allow fine-grained control of output texts. 
 
 ##### Publications
+* J. Takayama, T. Kajiwara, and Y. Arase. DIRECT: Direct and Indirect Responses in Conversational Text Corpus, in Findings of the Association for Computational Linguistics: EMNLP 2021, pp. 1980–1989 (Nov. 2021). [data](https://github.com/junya-takayama/DIRECT)
 * Y. Arase and J. Tsujii: Compositional Phrase Alignment and Beyond, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2020), pp. 1611–1623 (Nov. 2020). 
 [code](https://github.com/yukiar/phrase_alignment_cted)
 * J. Takayama and Y. Arase: Consistent Response Generation with Controlled Specificity. in Proc. of Findings of the Association for Computational Linguistics: EMNLP 2020, pp. 4418–4427 (Nov. 2020). 
@@ -25,6 +26,9 @@ We have created datasets for phrase alignment that (1) provide ground-truth tree
 
 * SPADE, an evaluation dataset with 201 paraphrasal sentence pairs: [LDC2018T09](https://catalog.ldc.upenn.edu/LDC2018T09).
 * ESPADA, a training (most likely for fine-tuning pre-trained masked language models) dataset with 1,916 paraphrasal sentence pairs: [LDC2021T10](https://catalog.ldc.upenn.edu/LDC2021T10).
+
+A parallel corpus of direct and indirect utterances is beneficial for natural language understanding in conversation systems and advancing paraphrase recognition in challenging and realistic settings. 
+* DIRECT, a training and evaluation datasets with 71k pairs of direct and indirect utterances. [data](https://github.com/junya-takayama/DIRECT)
 
 
 ## Representation learning
