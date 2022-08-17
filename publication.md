@@ -1,7 +1,8 @@
 # Publications
 
 ## International Conferences
-1. H. Huang, T. Kajiwara, and Y. Arase. JADE: Corpus for Japanese Definition Modelling, in Proc. of Language Resources and Evaluation Conference (LREC 2022) (June 2022, to appear).
+1. Y. Kuroda, T. Kajiwara, Y. Arase, and T. Ninomiya. Adversarial Training on Disentangling Meaning and Language Representations for Unsupervised Quality Estimation, in Proc. of International Conference on Computational Linguistics (COLING 2022) (Oct. 2022, to appear).
+1. H. Huang, T. Kajiwara, and Y. Arase. JADE: Corpus for Japanese Definition Modelling, in Proc. of Language Resources and Evaluation Conference (LREC 2022), pp. 6884-6888 (June 2022).
 1. H. Huang, T. Kajiwara, and Y. Arase. Definition Modelling for Appropriate Specificity, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021), pp. 2499–2509 (Nov. 2021).
 1. N. Tiyajamorn, T. Kajiwara, Y. Arase, and M. Onizuka. Language-agnostic Representation from Multilingual Sentence Encoders for Cross-lingual Similarity Estimation, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021), pp. 7764–7774 (Nov. 2021).
 1. Y. Arase and T. Kajiwara. Distilling Word Meaning in Context from Pre-trained Language Model, in Findings of the Association for Computational Linguistics: EMNLP 2021, pp. 534–546 (Nov. 2021). [code](https://github.com/yukiar/distil_wic)
@@ -62,7 +63,7 @@
 
 
 ## Journals
-1. 西原哲郎, 岩本裕司, 吉仲真人, 梶原智之, 荒瀬由紀, 二宮崇. 多言語雑音除去自己符号化器による教師なし品質推定. 自然言語処理 Vol. 29, No. 2 (2022年6月, to appear).
+1. 西原哲郎, 岩本裕司, 吉仲真人, 梶原智之, 荒瀬由紀, 二宮崇. 多言語雑音除去自己符号化器による教師なし品質推定. 自然言語処理 Vol. 29, No. 2, pp. 669-687 (2022年6月).
 1. 高山隼矢, 梶原智之, 荒瀬由紀. 対話における間接的応答と直接的応答からなる言い換えコーパスの構築と分析. 自然言語処理Vol. 29, No. 1, pp. 84-111 (2022年3月).
 1. 吉仲真人、梶原智之、荒瀬由紀: 単語分散表現に基づく単一言語内フレーズアラインメント. 自然言語処理 Vol. 28, No. 2, pp. 508-531 (2021年6月).
 1. 大橋空，五十川真生，梶原智之，荒瀬由紀: 大域的な類似度に基づく単語分散表現の圧縮. 自然言語処理 Vol. 28, No. 1, pp. 235-252 (2021年3月).
@@ -89,6 +90,7 @@
 
 
 ## Books
+1. 岡﨑 直観, 荒瀬 由紀, 鈴木 潤, 鶴岡 慶雅, 宮尾 祐介. IT Text 自然言語処理の基礎. オーム社 (2022年8月).
 1. Y. Arase, T. Hara, and S. Nishio: Web Page Adaptation and Presentation for Mobile Phones, Book Chapter (Chapter 12, pp. 240-262), in W.-C. Hu and Y. Zuo (Eds.), Handheld Computing for Mobile Commerce: Applications, Concepts and Technologies, IGI Global (Apr. 2010).
 
 
