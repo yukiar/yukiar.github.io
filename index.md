@@ -23,7 +23,7 @@ Note that we do not have "research student" positions.
 ***
 
 ## News
-* A paper has been accepted at COLING 2022. 
+* Our paper, titled "CEFR-based Sentence Difficulty Annotation and Assessment," has been accepted at EMNLP 2022. 
 * I have received some inquiries about our lexical substitution corpora. They are downloadable from the [research](./research.md) page! 
 
 (Last update: 2022/08/17)
@@ -55,6 +55,7 @@ Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main
 
 
 ## Selected Recent Publications
+* Y. Arase, S. Uchida, and T. Kajiwara. CEFR-based Sentence Difficulty Annotation and Assessment, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2022) (Dec. 2022 to appear).
 * Y. Kuroda, T. Kajiwara, Y. Arase, and T. Ninomiya. Adversarial Training on Disentangling Meaning and Language Representations for Unsupervised Quality Estimation, in Proc. of International Conference on Computational Linguistics (COLING 2022) (Oct. 2022, to appear).
 * H. Huang, T. Kajiwara, and Y. Arase. Definition Modelling for Appropriate Specificity, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021), pp. 2499–2509 (Nov. 2021).
 * N. Tiyajamorn, T. Kajiwara, Y. Arase, and M. Onizuka. Language-agnostic Representation from Multilingual Sentence Encoders for Cross-lingual Similarity Estimation, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021), pp. 7764–7774 (Nov. 2021).

@@ -1,6 +1,7 @@
 # Publications
 
 ## International Conferences
+1. Y. Arase, S. Uchida, and T. Kajiwara. CEFR-based Sentence Difficulty Annotation and Assessment, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2022) (Dec. 2022 to appear).
 1. Y. Kuroda, T. Kajiwara, Y. Arase, and T. Ninomiya. Adversarial Training on Disentangling Meaning and Language Representations for Unsupervised Quality Estimation, in Proc. of International Conference on Computational Linguistics (COLING 2022) (Oct. 2022, to appear).
 1. H. Huang, T. Kajiwara, and Y. Arase. JADE: Corpus for Japanese Definition Modelling, in Proc. of Language Resources and Evaluation Conference (LREC 2022), pp. 6884-6888 (June 2022).
 1. H. Huang, T. Kajiwara, and Y. Arase. Definition Modelling for Appropriate Specificity, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021), pp. 2499–2509 (Nov. 2021).
