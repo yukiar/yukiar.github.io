@@ -52,6 +52,7 @@ As a central application of our research outcomes, we develop technologies for l
 Our technology covers from fine-grained lexical-level transformations to coarse-grained text-level processing.
 
 ##### Publications
+* Y. Arase, S. Uchida, and T. Kajiwara. CEFR-based Sentence Difficulty Annotation and Assessment, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2022), pp. 6206-6219 (Dec. 2022).
 * T. Zetsu, T. Kajiwara, and Y. Arase. Lexically Constrained Decoding with Edit Operation Prediction for Controllable Text Simplification, in Proc. of the Workshop on Text Simplification, Accessibility, and Readability (TSAR-2022), pp. 147–153 (Dec. 2022).
 * H. Huang, T. Kajiwara, and Y. Arase. Definition Modelling for Appropriate Specificity, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021), pp. 2499–2509 (Nov. 2021).
 * K. Ashihara, T. Kajiwara, Y. Arase and S. Uchida: Contextualized context2vec, in Proc. of Workshop on Noisy User-generated Text (W-NUT 2019), pp. 397–406 (Nov. 2019).
