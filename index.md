@@ -26,7 +26,7 @@ Note that we do not have "research student" positions.
 * Our paper, titled "CEFR-based Sentence Difficulty Annotation and Assessment," has been accepted at EMNLP 2022. 
 * I have received some inquiries about our lexical substitution corpora. They are downloadable from the [research](./research.md) page! 
 
-(Last update: 2022/08/17)
+(Last update: 2023/03/01)
 
 
 ## Research
@@ -55,8 +55,8 @@ Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main
 
 
 ## Selected Recent Publications
-* Y. Arase, S. Uchida, and T. Kajiwara. CEFR-based Sentence Difficulty Annotation and Assessment, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2022) (Dec. 2022 to appear).
-* Y. Kuroda, T. Kajiwara, Y. Arase, and T. Ninomiya. Adversarial Training on Disentangling Meaning and Language Representations for Unsupervised Quality Estimation, in Proc. of International Conference on Computational Linguistics (COLING 2022) (Oct. 2022, to appear).
+* Y. Arase, S. Uchida, and T. Kajiwara. CEFR-based Sentence Difficulty Annotation and Assessment, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2022), pp. 6206-6219 (Dec. 2022).
+* Y. Kuroda, T. Kajiwara, Y. Arase, and T. Ninomiya. Adversarial Training on Disentangling Meaning and Language Representations for Unsupervised Quality Estimation, in Proc. of International Conference on Computational Linguistics (COLING 2022), pp. 5240-5245 (Oct. 2022).
 * H. Huang, T. Kajiwara, and Y. Arase. Definition Modelling for Appropriate Specificity, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021), pp. 2499–2509 (Nov. 2021).
 * N. Tiyajamorn, T. Kajiwara, Y. Arase, and M. Onizuka. Language-agnostic Representation from Multilingual Sentence Encoders for Cross-lingual Similarity Estimation, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021), pp. 7764–7774 (Nov. 2021).
 * Y. Arase and T. Kajiwara. Distilling Word Meaning in Context from Pre-trained Language Model, in Findings of the Association for Computational Linguistics: EMNLP 2021, pp. 534–546 (Nov. 2021). [code](https://github.com/yukiar/distil_wic)
@@ -73,7 +73,8 @@ Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main
 * Y. Arase and J. Tsujii: SPADE: Evaluation Dataset for Monolingual Phrase Alignment, in Proc. of Language Resources and Evaluation Conference (LREC 2018), (May 2018).
 
 ## Academic Service
-* Area Chair: ACL2020, 2021, EMNLP2021
+* Senior Area Chair: ACL2023
+* Area Chair: ARR, ACL2020, 2021, EMNLP2021
 * Publication Chair for ACL2020 
 * PC Chair: [SNL2021](http://www.am.sanken.osaka-u.ac.jp/SNL2021/index.html)
 * Reviewer: ACL, EMNLP, NAACL, EACL, TACL, Computational Linguistics, etc.  

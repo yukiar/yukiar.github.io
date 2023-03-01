@@ -1,8 +1,10 @@
 # Publications
 
 ## International Conferences
-1. Y. Arase, S. Uchida, and T. Kajiwara. CEFR-based Sentence Difficulty Annotation and Assessment, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2022) (Dec. 2022 to appear).
-1. Y. Kuroda, T. Kajiwara, Y. Arase, and T. Ninomiya. Adversarial Training on Disentangling Meaning and Language Representations for Unsupervised Quality Estimation, in Proc. of International Conference on Computational Linguistics (COLING 2022) (Oct. 2022, to appear).
+1. Y. Arase, S. Uchida, and T. Kajiwara. CEFR-based Sentence Difficulty Annotation and Assessment, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2022), pp. 6206-6219 (Dec. 2022).
+1. T. Zetsu, T. Kajiwara, and Y. Arase. Lexically Constrained Decoding with Edit Operation Prediction for Controllable Text Simplification, in Proc. of the Workshop on Text Simplification, Accessibility, and Readability (TSAR-2022), pp. 147–153 (Dec. 2022).
+1. D. Yanamoto, T. Ikawa, T. Kajiwara, T. Ninomiya, S. Uchida, and Y. Arase. Controllable Text Simplification with Deep Reinforcement Learning. in Proc. of Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the International Joint Conference on Natural Language Processing (AACL-IJCNLP 2022), pp. 398-404 (Nov. 2022).
+1. Y. Kuroda, T. Kajiwara, Y. Arase, and T. Ninomiya. Adversarial Training on Disentangling Meaning and Language Representations for Unsupervised Quality Estimation, in Proc. of International Conference on Computational Linguistics (COLING 2022), pp. 5240-5245 (Oct. 2022).
 1. H. Huang, T. Kajiwara, and Y. Arase. JADE: Corpus for Japanese Definition Modelling, in Proc. of Language Resources and Evaluation Conference (LREC 2022), pp. 6884-6888 (June 2022).
 1. H. Huang, T. Kajiwara, and Y. Arase. Definition Modelling for Appropriate Specificity, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021), pp. 2499–2509 (Nov. 2021).
 1. N. Tiyajamorn, T. Kajiwara, Y. Arase, and M. Onizuka. Language-agnostic Representation from Multilingual Sentence Encoders for Cross-lingual Similarity Estimation, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2021), pp. 7764–7774 (Nov. 2021).
@@ -96,9 +98,10 @@
 
 
 ## Patents
+1. 土田 正明, 松下 (荒瀬) 由紀, 高山隼矢, 山上 勝義.  プログラム、方法、情報処理装置、及びシステム, 特願2020-198201, 2020年12月24日出願.
 1. 永田 昌明, 竹林 佑斗, チュウ　チェンフイ, 荒瀬 由紀. 翻訳装置、翻訳方法及びプログラム, 特願2019-159663, 2019年9月2日出願. 
 1. 田中 貴秋, 永田 昌明, 松下 (荒瀬) 由紀. 文比較装置、文比較方法、及び文比較プログラム, 特願2019-131583, 2019年7月17日出願. 
-1. 田中貴秋, 永田昌明, 松下 (荒瀬) 由紀, 鬼塚真: 文比較装置、方法、及びプログラム, 特願2018-096983, 2018年5月21日出願.
+1. 186. 田中 貴秋, 永田 昌明, 松下 (荒瀬) 由紀, 鬼塚真. 文比較装置、方法、及びプログラム, 特許第7088490号. 2022年6月13日登録 (特願2018-096983, 2018年5月21日出願).
 1. 田中貴秋, 永田昌明, 松下 (荒瀬) 由紀: 言語解析装置、方法、及びプログラム, 特許第6782929号. 2020年10月23日登録 (特願2017-139783, 2017年7月19日出願).
 1. Y. Arase, Y. Zhu, and X. Xie: Identifying Status based on Heterogeneous Sensors, U.S. Patent 8718672, 10-18-2012.
 1. Y. Arase and X. Xie: Construction of Photo Trip Patterns based on Geographical Information, U.S. Patent 8626699, 3-17-2011. 
@@ -130,5 +133,6 @@
 1. トレンドと検索頻度とWikipediaページビューの三角関係, インタラクティブ情報アクセスと可視化マイニング 第10回研究会 招待講演 (2015年7月).
 
 ## Tutorials
-1. 荒瀬由紀: "深層学習時代の" ゼロから始める自然言語処理, 第32回人工知能学会全国大会 (JSAI2018) チュートリアル (2018年6月). 
+1. 荒瀬 由紀: Pre-trained Transformerモデルの最前線, 第25回 画像の認識・理解シンポジウム (MIRU2022) チュートリアル (2022年7月).
+1. 荒瀬 由紀: "深層学習時代の" ゼロから始める自然言語処理, 第32回人工知能学会全国大会 (JSAI2018) チュートリアル (2018年6月). 
 1. 荒瀬 由紀: ゼロから始める自然言語処理, 第15回情報科学技術フォーラム（FIT2016）「ここから始める情報処理 ～画像、音声、テキスト、検索、学習、一気にまとめてチュートリアル～」 (2016年9月). <a href="http://www.slideshare.net/yukiarase/fit2016-66043779">slides</a>
