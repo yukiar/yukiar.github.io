@@ -1,6 +1,7 @@
 # Publications
 
 ## International Conferences
+1. Y. Arase, H. Bao, and S. Yokoi. Unbalanced Optimal Transport for Unbalanced Word Alignment, in Proc. of the Annual Meeting of the Association for Computational Linguistics (ACL 2023), (July 2023, to appear).
 1. Y. Arase, S. Uchida, and T. Kajiwara. CEFR-based Sentence Difficulty Annotation and Assessment, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2022), pp. 6206-6219 (Dec. 2022).
 1. T. Zetsu, T. Kajiwara, and Y. Arase. Lexically Constrained Decoding with Edit Operation Prediction for Controllable Text Simplification, in Proc. of the Workshop on Text Simplification, Accessibility, and Readability (TSAR-2022), pp. 147–153 (Dec. 2022).
 1. D. Yanamoto, T. Ikawa, T. Kajiwara, T. Ninomiya, S. Uchida, and Y. Arase. Controllable Text Simplification with Deep Reinforcement Learning. in Proc. of Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the International Joint Conference on Natural Language Processing (AACL-IJCNLP 2022), pp. 398-404 (Nov. 2022).

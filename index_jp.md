@@ -24,8 +24,8 @@ Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 ***
 
 ## News
+* ACL 2023 に論文が採択されました。
 * [『IT Text 自然言語処理の基礎』](https://www.ohmsha.co.jp/book/9784274229008/)（岡﨑 直観, 荒瀬 由紀, 鈴木 潤, 鶴岡 慶雅, 宮尾 祐介 共著）、オーム社より発売中
-* EMNLP 2022 に論文が採択されました。
 * 我々が作成した Lexical substitution コーパスについて問い合わせをいただきました。[Research](./research.md) ページよりダウンロードできます。
 
 (Last update: 2023/03/01)
@@ -56,6 +56,7 @@ Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main
 
 
 ## Selected Recent Publications
+* Y. Arase, H. Bao, and S. Yokoi. Unbalanced Optimal Transport for Unbalanced Word Alignment, in Proc. of the Annual Meeting of the Association for Computational Linguistics (ACL 2023), (July 2023, to appear).
 * Y. Arase, S. Uchida, and T. Kajiwara. CEFR-based Sentence Difficulty Annotation and Assessment, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2022), pp. 6206-6219 (Dec. 2022).
 * Y. Kuroda, T. Kajiwara, Y. Arase, and T. Ninomiya. Adversarial Training on Disentangling Meaning and Language Representations for Unsupervised Quality Estimation, in Proc. of International Conference on Computational Linguistics (COLING 2022), pp. 5240-5245 (Oct. 2022).
 * 西原哲郎, 岩本裕司, 吉仲真人, 梶原智之, 荒瀬由紀, 二宮崇. 多言語雑音除去自己符号化器による教師なし品質推定. 自然言語処理 Vol. 29, No. 2, pp. 669-687 (2022年6月).
@@ -76,10 +77,10 @@ Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main
 * Y. Arase and J. Tsujii: SPADE: Evaluation Dataset for Monolingual Phrase Alignment, in Proc. of Language Resources and Evaluation Conference (LREC 2018), (May 2018).
 
 ## Academic Service
-* Senior Area Chair: ACL2023
+* PC Chair: [IJCNLP-AACL2023](http://www.ijcnlp-aacl2023.org/), [SNL2021](http://www.am.sanken.osaka-u.ac.jp/SNL2021/index.html)
+* Senior Area Chair: [ACL2023](https://2023.aclweb.org/committees/program/)
 * Area Chair: ARR, ACL2020, 2021, EMNLP2021
 * Publication Chair for ACL2020 
-* PC Chair: [SNL2021](http://www.am.sanken.osaka-u.ac.jp/SNL2021/index.html)
 * 言語処理学会 理事（2020年3月～）
 * 情報処理学会自然言語処理研究会 幹事（2015年4月～2019年3月）
 * 言語処理学会論文誌「自然言語処理」編集委員（2015年9月～2019年9月）
