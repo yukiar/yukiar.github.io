@@ -23,6 +23,7 @@ Note that we do not have "research student" positions.
 ***
 
 ## News
+* A paper has been accepted at *SEM 2023. S. Kadotani and Y. Arase. Monolingual Phrase Alignment as Parse Forest Mapping, in Proc. of the Joint Conference on Lexical and Computational Semantics (*SEM 2023), (July 2023, to appear).
 * A paper has been accepted at ACL 2023. Yuki Arase, Han Bao, and Sho Yokoi. Unbalanced Optimal Transport for Unbalanced Word Alignment, in Proc. of the Annual Meeting of the Association for Computational Linguistics (ACL 2023), (July 2023, to appear).
 * Our paper, titled "CEFR-based Sentence Difficulty Annotation and Assessment," has been accepted at EMNLP 2022. 
 * I have received some inquiries about our lexical substitution corpora. They are downloadable from the [research](./research.md) page! 
@@ -56,6 +57,7 @@ Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main
 
 
 ## Selected Recent Publications
+* S. Kadotani and Y. Arase. Monolingual Phrase Alignment as Parse Forest Mapping, in Proc. of the Joint Conference on Lexical and Computational Semantics (*SEM 2023), (July 2023, to appear).
 * Y. Arase, H. Bao, and S. Yokoi. Unbalanced Optimal Transport for Unbalanced Word Alignment, in Proc. of the Annual Meeting of the Association for Computational Linguistics (ACL 2023), (July 2023, to appear).
 * Y. Arase, S. Uchida, and T. Kajiwara. CEFR-based Sentence Difficulty Annotation and Assessment, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2022), pp. 6206-6219 (Dec. 2022).
 * Y. Kuroda, T. Kajiwara, Y. Arase, and T. Ninomiya. Adversarial Training on Disentangling Meaning and Language Representations for Unsupervised Quality Estimation, in Proc. of International Conference on Computational Linguistics (COLING 2022), pp. 5240-5245 (Oct. 2022).

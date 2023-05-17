@@ -11,6 +11,8 @@ Phrase alignment aims to identify phrasal paraphrases with syntactic structures.
 Current text generation models perform mostly black-box; we don't know what comes out until the end. In paraphrasing, we are interested in realising controllability in text generation to allow fine-grained control of output texts. 
 
 ##### Publications
+* S. Kadotani and Y. Arase. Monolingual Phrase Alignment as Parse Forest Mapping, in Proc. of the Joint Conference on Lexical and Computational Semantics (*SEM 2023), (July 2023, to appear).
+* Y. Arase, H. Bao, and S. Yokoi. Unbalanced Optimal Transport for Unbalanced Word Alignment, in Proc. of the Annual Meeting of the Association for Computational Linguistics (ACL 2023), (July 2023, to appear).
 * J. Takayama, T. Kajiwara, and Y. Arase. DIRECT: Direct and Indirect Responses in Conversational Text Corpus, in Findings of the Association for Computational Linguistics: EMNLP 2021, pp. 1980–1989 (Nov. 2021). [data](https://github.com/junya-takayama/DIRECT)
 * Y. Arase and J. Tsujii: Compositional Phrase Alignment and Beyond, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2020), pp. 1611–1623 (Nov. 2020). 
 [code](https://github.com/yukiar/phrase_alignment_cted)
