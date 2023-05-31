@@ -24,12 +24,15 @@ Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 ***
 
 ## News
+* [第22回船井学術賞 船井哲良特別賞](https://funaifoundation.jp/grantees/awardees_up_to_now.html)を受賞しました。
+* 「自然言語処理」に論文が採択されました。
+* 第256回 自然言語処理研究発表会 優秀研究賞を受賞しました：宮野 稜大，梶原 智之，荒瀬 由紀. 「系列変換モデルにおける語彙制約を用いた複数出力候補の統合」. 情報処理学会自然言語処理研究会  (2023年5月).
 * *SEM 2023 に論文が採択されました。
 * ACL 2023 に論文が採択されました。
 * [『IT Text 自然言語処理の基礎』](https://www.ohmsha.co.jp/book/9784274229008/)（岡﨑 直観, 荒瀬 由紀, 鈴木 潤, 鶴岡 慶雅, 宮尾 祐介 共著）、オーム社より発売中
 * 我々が作成した Lexical substitution コーパスについて問い合わせをいただきました。[Research](./research.md) ページよりダウンロードできます。
 
-(Last update: 2023/05/17)
+(Last update: 2023/05/31)
 
 
 ## Research

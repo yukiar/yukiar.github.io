@@ -23,12 +23,13 @@ Note that we do not have "research student" positions.
 ***
 
 ## News
+* Received [the 22nd Funai Information Technology Award](https://funaifoundation.jp/grantees/awardees_up_to_now.html) from FFIT. 
 * A paper has been accepted at *SEM 2023. S. Kadotani and Y. Arase. Monolingual Phrase Alignment as Parse Forest Mapping, in Proc. of the Joint Conference on Lexical and Computational Semantics (*SEM 2023), (July 2023, to appear).
 * A paper has been accepted at ACL 2023. Yuki Arase, Han Bao, and Sho Yokoi. Unbalanced Optimal Transport for Unbalanced Word Alignment, in Proc. of the Annual Meeting of the Association for Computational Linguistics (ACL 2023), (July 2023, to appear).
 * Our paper, titled "CEFR-based Sentence Difficulty Annotation and Assessment," has been accepted at EMNLP 2022. 
 * I have received some inquiries about our lexical substitution corpora. They are downloadable from the [research](./research.md) page! 
 
-(Last update: 2023/05/08)
+(Last update: 2023/05/31)
 
 
 ## Research
