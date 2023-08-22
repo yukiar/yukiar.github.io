@@ -12,7 +12,7 @@ Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 2006年大阪大学工学部電子情報エネルギー工学科卒業。
 2007年同大学院情報科学研究科博士前期課程、2010年同博士後期課程修了。博士（情報科学）。同年、北京のMicrosoft Researchに入社、自然言語処理に関する研究開発に従事。
 2014年より大阪大学大学院情報科学研究科マルチメディア工学専攻准教授、現在に至る。
-言い換え表現抽出、対話システム、言語学習支援技術に興味を持つ。
+言い換え表現認識および生成、それらを応用した言語学習支援、医療言語処理に興味を持つ。
 
 2022年10月もしくは2023年4月スタートの博士後期課程学生を募集しています。興味のある方は業績リスト付きのCVをお送りください。
 ※ 研究生の募集はしていません。
@@ -85,7 +85,9 @@ Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main
 * PC Chair: [IJCNLP-AACL2023](http://www.ijcnlp-aacl2023.org/), [SNL2021](http://www.am.sanken.osaka-u.ac.jp/SNL2021/index.html)
 * Senior Area Chair: [ACL2023](https://2023.aclweb.org/committees/program/)
 * Area Chair: ARR, ACL2020, 2021, EMNLP2021
+* Publicity and Social Media Chair: ACL2024
 * Publication Chair for ACL2020 
+* Member-at-large: Asian Federation of Natural Language Processing(AFNLP)
 * 言語処理学会 理事（2020年3月～）
 * 情報処理学会自然言語処理研究会 幹事（2015年4月～2019年3月）
 * 言語処理学会論文誌「自然言語処理」編集委員（2015年9月～2019年9月）

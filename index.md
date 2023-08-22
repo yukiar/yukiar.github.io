@@ -9,11 +9,9 @@ Associate Professor ([Japanese page](./index_jp.md))
 Email: arase[at]ist.osaka-u.ac.jp  
 Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 
-Yuki Arase is an associate professor at the graduate school of information science and technology, Osaka University, Japan. She was previously an associate researcher at the natural language computing group of Microsoft Research Asia. Her primary research interest is in paraphrasing, conversation systems, and educational applications for language learners. She earned her Ph. D. of Information Science at Osaka University in 2010 for research on presenting a large amount of information on small screens.
+I am an associate professor at the Graduate School of Information Science and Technology, Osaka University, Japan. After obtaining my PhD in Information Science from Osaka University (2010), I worked for Microsoft Research Asia, where I started NLP research that continues to captivate me to this day. My research interests focus on paraphrasing and NLP technology for language education and healthcare.
 
-Apart from research, Yuki enjoys yoga practice, always traveling with a yoga mat in her luggage trolley.
-
-I'm recruiting PhD students starting from Oct. 2022 or Apr. 2023. Please send me your CV with a publication list if you are interested. 
+I'm recruiting PhD students and a postdoc starting on April 2023. Please send me your CV with a publication list if you are interested. 
 Note that we do not have "research student" positions.
 
 ***
@@ -29,7 +27,7 @@ Note that we do not have "research student" positions.
 * Our paper, titled "CEFR-based Sentence Difficulty Annotation and Assessment," has been accepted at EMNLP 2022. 
 * I have received some inquiries about our lexical substitution corpora. They are downloadable from the [research](./research.md) page! 
 
-(Last update: 2023/05/31)
+(Last update: 2023/08/22)
 
 
 ## Research
@@ -81,6 +79,9 @@ Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main
 * PC Chair: [IJCNLP-AACL2023](http://www.ijcnlp-aacl2023.org/), [SNL2021](http://www.am.sanken.osaka-u.ac.jp/SNL2021/index.html)
 * Senior Area Chair: [ACL2023](https://2023.aclweb.org/committees/program/)
 * Area Chair: ARR, ACL2020, 2021, EMNLP2021
+* Publicity and Social Media Chair: ACL2024
 * Publication Chair for ACL2020 
 * Reviewer: ACL, EMNLP, NAACL, EACL, TACL, Computational Linguistics, etc.  
+* Member-at-large: Asian Federation of Natural Language Processing(AFNLP)
+* Director: The Association for Natural Language Processing, Japan, Information Processing Society of Japan
 
