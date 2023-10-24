@@ -1,8 +1,9 @@
 # Publications
 
 ## International Conferences
+1. R. Miyano, T. Kajiwara, Y. Arase. Self-Ensemble of N-best Generation Hypotheses by Lexically Constrained Decoding, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2023) (Dec. 2023).
 1. S. Kadotani and Y. Arase. Monolingual Phrase Alignment as Parse Forest Mapping, in Proc. of the Joint Conference on Lexical and Computational Semantics (*SEM 2023), (July 2023, to appear).
-1. Y. Arase, H. Bao, and S. Yokoi. Unbalanced Optimal Transport for Unbalanced Word Alignment, in Proc. of the Annual Meeting of the Association for Computational Linguistics (ACL 2023), (July 2023, to appear).
+1. Y. Arase, H. Bao, and S. Yokoi. Unbalanced Optimal Transport for Unbalanced Word Alignment, in Proc. of the Annual Meeting of the Association for Computational Linguistics (ACL 2023), pp. 3966–3986 (July 2023).
 1. Y. Arase, S. Uchida, and T. Kajiwara. CEFR-based Sentence Difficulty Annotation and Assessment, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2022), pp. 6206-6219 (Dec. 2022).
 1. T. Zetsu, T. Kajiwara, and Y. Arase. Lexically Constrained Decoding with Edit Operation Prediction for Controllable Text Simplification, in Proc. of the Workshop on Text Simplification, Accessibility, and Readability (TSAR-2022), pp. 147–153 (Dec. 2022).
 1. D. Yanamoto, T. Ikawa, T. Kajiwara, T. Ninomiya, S. Uchida, and Y. Arase. Controllable Text Simplification with Deep Reinforcement Learning. in Proc. of Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the International Joint Conference on Natural Language Processing (AACL-IJCNLP 2022), pp. 398-404 (Nov. 2022).
@@ -68,6 +69,7 @@
 
 
 ## Journals
+1. S. Uchida, Y. Arase, and T. Kajiwara. Profiling English Sentences Based on CEFR Levels, in ITL-International Journal of Applied Linguistics (2023, in press).
 1. 舌 達也, 梶原 智之, 荒瀬 由紀. 編集操作予測に基づく語彙制約付きデコーディングによるテキスト平易化の難易度制御. 自然言語処理 Vol. 30, No. 3 (2023年9月).
 1. 西原哲郎, 岩本裕司, 吉仲真人, 梶原智之, 荒瀬由紀, 二宮崇. 多言語雑音除去自己符号化器による教師なし品質推定. 自然言語処理 Vol. 29, No. 2, pp. 669-687 (2022年6月).
 1. 高山隼矢, 梶原智之, 荒瀬由紀. 対話における間接的応答と直接的応答からなる言い換えコーパスの構築と分析. 自然言語処理Vol. 29, No. 1, pp. 84-111 (2022年3月).
@@ -128,6 +130,7 @@
 
 
 ## Invited Talks
+1. Large Language Models on the Web: Anticipating the challenge (panelist), The 18th annual meeting of the Internet Governance Forum (IGF 2023) Workshop, (Oct. 2023).
 1. Phrase alignment and representation, NAIST Data Science Center Seminar (Feb. 2021). 
 1. Woman in IR (panelist), International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2020) (July, 2020).
 1. 人工知能における「対話」と「共感」, 第2回日本心身医学関連学会合同集会 (2019年11月 講演予定).
