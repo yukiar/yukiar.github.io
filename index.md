@@ -1,17 +1,17 @@
 # Yuki Arase
 
-Associate Professor ([Japanese page](./index_jp.md))
+Professor ([Japanese page](./index_jp.md))
 
-[Big Data Engineering Laboratory](http://www-bigdata.ist.osaka-u.ac.jp/en/home/),  
-[Graduate school of information science and technology](https://www.ist.osaka-u.ac.jp/english/),  
-[Osaka University](https://www.osaka-u.ac.jp/en), Japan  
+[School of Computing](https://educ.titech.ac.jp/cs/eng/),  
+[Tokyo Institute of Technology](https://www.titech.ac.jp/english),
+Japan  
 
 Email: arase[at]ist.osaka-u.ac.jp  
 Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 
-I am an associate professor at the Graduate School of Information Science and Technology, Osaka University, Japan. After obtaining my PhD in Information Science from Osaka University (2010), I worked for Microsoft Research Asia, where I started NLP research that continues to captivate me to this day. My research interests focus on paraphrasing and NLP technology for language education and healthcare.
+I am a professor at the School of Computing, Tokyo Institute of Technology, Japan. After obtaining my PhD in Information Science from Osaka University (2010), I worked for Microsoft Research Asia, where I started NLP research that continues to captivate me to this day. My research interests focus on paraphrasing and NLP technology for language education and healthcare.
 
-I'm recruiting PhD students and a postdoc starting on April 2023. Please send me your CV with a publication list if you are interested. 
+I'm recruiting PhD students and postdocs. Please send me your CV with a publication list if you are interested. 
 Note that we do not have "research student" positions.
 
 ***
@@ -21,12 +21,9 @@ Note that we do not have "research student" positions.
 ***
 
 ## News
-* Received [the 22nd Funai Information Technology Award](https://funaifoundation.jp/grantees/awardees_up_to_now.html) from FFIT. 
-* A paper has been accepted at EMNLP 2023: R. Miyano, T. Kajiwara, Y. Arase. Self-Ensemble of N-best Generation Hypotheses by Lexically Constrained Decoding, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2023) (Dec. 2023).
-* A paper has been accepted at ACL 2023. Yuki Arase, Han Bao, and Sho Yokoi. Unbalanced Optimal Transport for Unbalanced Word Alignment, in Proc. of the Annual Meeting of the Association for Computational Linguistics (ACL 2023), pp. 3966–3986 (July 2023).
-* I have received some inquiries about our lexical substitution corpora. They are downloadable from the [research](./research.md) page! 
+* Joined Tokyo Institute of Technology
 
-(Last update: 2023/08/22)
+(Last update: 2024/04/01)
 
 
 ## Research

@@ -1,8 +1,8 @@
 # 荒瀬 由紀
 
-[大阪大学](https://www.osaka-u.ac.jp/ja)  
-[大学院情報科学研究科](https://www.ist.osaka-u.ac.jp/japanese/)  
-[ビッグデータ工学講座 (鬼塚研究室)](https://www.ist.osaka-u.ac.jp/japanese/)  
+[東京工業大学](https://www.titech.ac.jp/)  
+[情報理工学院](https://www.titech.ac.jp/about/organization/schools/organization04)  
+<!--- [ビッグデータ工学講座 (鬼塚研究室)](https://www.ist.osaka-u.ac.jp/japanese/)  -->
 准教授  
 
 Email: arase[at]ist.osaka-u.ac.jp  
@@ -11,10 +11,10 @@ Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 
 2006年大阪大学工学部電子情報エネルギー工学科卒業。
 2007年同大学院情報科学研究科博士前期課程、2010年同博士後期課程修了。博士（情報科学）。同年、北京のMicrosoft Researchに入社、自然言語処理に関する研究開発に従事。
-2014年より大阪大学大学院情報科学研究科マルチメディア工学専攻准教授、現在に至る。
+2014年より大阪大学大学院情報科学研究科マルチメディア工学専攻准教授、2024年より東京工業大学情報理工学院教授、現在に至る。
 言い換え表現認識および生成、それらを応用した言語学習支援、医療言語処理に興味を持つ。
 
-2022年10月もしくは2023年4月スタートの博士後期課程学生を募集しています。興味のある方は業績リスト付きのCVをお送りください。
+博士後期課程学生を募集しています。興味のある方は業績リスト付きのCVをお送りください。
 ※ 研究生の募集はしていません。
 
 ***
@@ -24,15 +24,10 @@ Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 ***
 
 ## News
-* EMNLP 2023 に論文が採択されました。
-* [第22回船井学術賞 船井哲良特別賞](https://funaifoundation.jp/grantees/awardees_up_to_now.html)を受賞しました。
-* 「自然言語処理」に論文が採択されました。
-* 第256回 自然言語処理研究発表会 優秀研究賞を受賞しました：宮野 稜大，梶原 智之，荒瀬 由紀. 「系列変換モデルにおける語彙制約を用いた複数出力候補の統合」. 情報処理学会自然言語処理研究会  (2023年5月).
-* ACL 2023 に論文が採択されました。
+* 東京工業大学情報理工学院に着任しました。
 * [『IT Text 自然言語処理の基礎』](https://www.ohmsha.co.jp/book/9784274229008/)（岡﨑 直観, 荒瀬 由紀, 鈴木 潤, 鶴岡 慶雅, 宮尾 祐介 共著）、オーム社より発売中
-* 我々が作成した Lexical substitution コーパスについて問い合わせをいただきました。[Research](./research.md) ページよりダウンロードできます。
 
-(Last update: 2023/05/31)
+(Last update: 2024/04/01)
 
 
 ## Research
