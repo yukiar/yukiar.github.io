@@ -3,7 +3,7 @@
 [東京工業大学](https://www.titech.ac.jp/)  
 [情報理工学院](https://www.titech.ac.jp/about/organization/schools/organization04)  
 <!--- [ビッグデータ工学講座 (鬼塚研究室)](https://www.ist.osaka-u.ac.jp/japanese/)  -->
-准教授  
+教授  
 
 Email: arase[at]ist.osaka-u.ac.jp  
 Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
