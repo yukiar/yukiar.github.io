@@ -6,7 +6,7 @@ Professor ([Japanese page](./index_jp.md))
 [Tokyo Institute of Technology](https://www.titech.ac.jp/english),
 Japan  
 
-Email: arase[at]ist.osaka-u.ac.jp  
+Email: arase@ (add the domain: c.titech.ac.jp)
 Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 
 I am a professor at the School of Computing, Tokyo Institute of Technology, Japan. After obtaining my PhD in Information Science from Osaka University (2010), I worked for Microsoft Research Asia, where I started NLP research that continues to captivate me to this day. My research interests focus on paraphrasing and NLP technology for language education and healthcare.

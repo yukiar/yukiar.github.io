@@ -5,7 +5,7 @@
 <!--- [ビッグデータ工学講座 (鬼塚研究室)](https://www.ist.osaka-u.ac.jp/japanese/)  -->
 教授  
 
-Email: arase[at]ist.osaka-u.ac.jp  
+Email: arase@ (add the domain: c.titech.ac.jp)
 Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 
 
