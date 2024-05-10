@@ -1,7 +1,7 @@
 # 荒瀬 由紀
 
 [東京工業大学](https://www.titech.ac.jp/)[情報理工学院](https://www.titech.ac.jp/about/organization/schools/organization04) 教授 
-<!--- [ビッグデータ工学講座 (鬼塚研究室)](https://www.ist.osaka-u.ac.jp/japanese/)  -->
+[荒瀬研究室](https://arase-cl-lab.c.titech.ac.jp/ja/)
 
 Email: arase@ (add the domain: c.titech.ac.jp)
 
@@ -23,6 +23,7 @@ Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 ***
 
 ## News
+* [東工大荒瀬研 Website](https://arase-cl-lab.c.titech.ac.jp/ja/) が出来ました。
 * 東京工業大学情報理工学院に着任しました。
 * [『IT Text 自然言語処理の基礎』](https://www.ohmsha.co.jp/book/9784274229008/)（岡﨑 直観, 荒瀬 由紀, 鈴木 潤, 鶴岡 慶雅, 宮尾 祐介 共著）、オーム社より発売中
 
