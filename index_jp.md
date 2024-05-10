@@ -1,6 +1,7 @@
 # 荒瀬 由紀
 
 [東京工業大学](https://www.titech.ac.jp/)[情報理工学院](https://www.titech.ac.jp/about/organization/schools/organization04) 教授 
+
 [荒瀬研究室](https://arase-cl-lab.c.titech.ac.jp/ja/)
 
 Email: arase@ (add the domain: c.titech.ac.jp)

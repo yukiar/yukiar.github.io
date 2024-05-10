@@ -3,6 +3,7 @@
 Professor ([Japanese page](./index_jp.md))
 
 [School of Computing](https://educ.titech.ac.jp/cs/eng/), [Tokyo Institute of Technology](https://www.titech.ac.jp/english), Japan
+
 [Arase Lab](https://arase-cl-lab.c.titech.ac.jp/)
 
 Email: arase@ (add the domain: c.titech.ac.jp)
