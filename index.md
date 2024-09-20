@@ -22,10 +22,11 @@ Note that we do not have "research student" positions.
 ***
 
 ## News
+* Our paper has been accepted by EMNLP2024 Findings: T. Zetsu, Y. Arase, and T. Kajiwara. Edit-Constrained Decoding for Sentence Simplification, in Proc. of EMNLP 2024 Findings (Nov. 2024 to appear).
 * [Arase Lab website](https://arase-cl-lab.c.titech.ac.jp/) got launched!
 * Joined Tokyo Institute of Technology
 
-(Last update: 2024/04/01)
+(Last update: 2024/09/20)
 
 
 ## Research
@@ -54,7 +55,8 @@ Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main
 
 
 ## Selected Recent Publications
-* R. Miyano, T. Kajiwara, Y. Arase. Self-Ensemble of N-best Generation Hypotheses by Lexically Constrained Decoding, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2023) (Dec. 2023).
+* Y. Ogasa, T. Kajiwara, Y. Arase. Controllable Paraphrase Generation for Semantic and Lexical Similarities, in Proc. of Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pp. 3927–3942 (May 2024).
+* R. Miyano, T. Kajiwara, Y. Arase. Self-Ensemble of N-best Generation Hypotheses by Lexically Constrained Decoding, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), pp. 14653-14661 (Dec. 2023).
 * Y. Arase, H. Bao, and S. Yokoi. Unbalanced Optimal Transport for Unbalanced Word Alignment, in Proc. of the Annual Meeting of the Association for Computational Linguistics (ACL 2023), pp. 3966–3986 (July 2023).
 * Y. Arase, S. Uchida, and T. Kajiwara. CEFR-based Sentence Difficulty Annotation and Assessment, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP2022), pp. 6206-6219 (Dec. 2022).
 * Y. Kuroda, T. Kajiwara, Y. Arase, and T. Ninomiya. Adversarial Training on Disentangling Meaning and Language Representations for Unsupervised Quality Estimation, in Proc. of International Conference on Computational Linguistics (COLING 2022), pp. 5240-5245 (Oct. 2022).
