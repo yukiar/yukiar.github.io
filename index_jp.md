@@ -24,6 +24,7 @@ Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 ***
 
 ## News
+* Forbes Japan [Women In Tech 30 発表：テクノロジー領域で未来を創造する30人の女性](https://forbesjapan.com/articles/detail/74347/page4) に選出されました。ご推薦いただいたみなさま、ありがとうございました！
 * EMNLP2024 Findings に論文が採択されました：T. Zetsu, Y. Arase, and T. Kajiwara. Edit-Constrained Decoding for Sentence Simplification, in Proc. of EMNLP 2024 Findings (Nov. 2024 to appear).
 * [東工大荒瀬研 Website](https://arase-cl-lab.c.titech.ac.jp/ja/) が出来ました。
 * 東京工業大学情報理工学院に着任しました。
