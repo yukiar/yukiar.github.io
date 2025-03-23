@@ -1,6 +1,6 @@
 # 荒瀬 由紀
 
-[東京工業大学](https://www.titech.ac.jp/)[情報理工学院](https://www.titech.ac.jp/about/organization/schools/organization04) 教授 
+[東京科学大学（旧 東京工業大学）](https://www.isct.ac.jp/ja)[情報理工学院](https://educ.titech.ac.jp/cs/) 教授 
 
 [荒瀬研究室](https://arase-cl-lab.c.titech.ac.jp/ja/)
 
@@ -24,8 +24,8 @@ Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 ***
 
 ## News
+* NAACL2025 に論文が採択されました：Guanlin Li, Yuki Arase, Noel Crespi. Aligning Sentence Simplification with ESL Learner’s Proficiency for Language Acquisition (Apr. 2025 to appear). 
 * Forbes Japan [Women In Tech 30 発表：テクノロジー領域で未来を創造する30人の女性](https://forbesjapan.com/articles/detail/74347/page4) に選出されました。ご推薦いただいたみなさま、ありがとうございました！
-* EMNLP2024 Findings に論文が採択されました：T. Zetsu, Y. Arase, and T. Kajiwara. Edit-Constrained Decoding for Sentence Simplification, in Proc. of EMNLP 2024 Findings (Nov. 2024 to appear).
 * [東工大荒瀬研 Website](https://arase-cl-lab.c.titech.ac.jp/ja/) が出来ました。
 * 東京工業大学情報理工学院に着任しました。
 * [『IT Text 自然言語処理の基礎』](https://www.ohmsha.co.jp/book/9784274229008/)（岡﨑 直観, 荒瀬 由紀, 鈴木 潤, 鶴岡 慶雅, 宮尾 祐介 共著）、オーム社より発売中
@@ -58,6 +58,7 @@ Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main
 
 
 ## Selected Recent Publications
+* T. Zetsu, Y. Arase, and T. Kajiwara. Edit-Constrained Decoding for Sentence Simplification, in Proc. of EMNLP 2024 Findings, pp. 7161–7173 (Nov. 2024).
 * Y. Ogasa, T. Kajiwara, Y. Arase. Controllable Paraphrase Generation for Semantic and Lexical Similarities, in Proc. of Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pp. 3927–3942 (May 2024).
 * R. Miyano, T. Kajiwara, Y. Arase. Self-Ensemble of N-best Generation Hypotheses by Lexically Constrained Decoding, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), pp. 14653-14661 (Dec. 2023).
 * Y. Arase, H. Bao, and S. Yokoi. Unbalanced Optimal Transport for Unbalanced Word Alignment, in Proc. of the Annual Meeting of the Association for Computational Linguistics (ACL 2023), pp. 3966–3986 (July 2023).

@@ -2,7 +2,7 @@
 
 Professor ([Japanese page](./index_jp.md))
 
-[School of Computing](https://educ.titech.ac.jp/cs/eng/), [Tokyo Institute of Technology](https://www.titech.ac.jp/english), Japan
+[School of Computing](https://educ.titech.ac.jp/cs/eng/), [Institute of Science Tokyo](https://www.isct.ac.jp/en), Japan
 
 [Arase Lab](https://arase-cl-lab.c.titech.ac.jp/)
 
@@ -10,7 +10,7 @@ Email: arase@ (add the domain: c.titech.ac.jp)
 
 Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 
-I am a professor at the School of Computing, Tokyo Institute of Technology, Japan. After obtaining my PhD in Information Science from Osaka University (2010), I worked for Microsoft Research Asia, where I started NLP research that continues to captivate me to this day. My research interests focus on paraphrasing and NLP technology for language education and healthcare.
+I am a professor at the School of Computing, Institute of Science Tokyo (aka Tokyo Institute of Technology), Japan. After obtaining my PhD in Information Science from Osaka University (2010), I worked for Microsoft Research Asia, where I started NLP research that continues to captivate me to this day. My research interests focus on paraphrasing and NLP technology for language education and healthcare.
 
 I'm recruiting PhD students and postdocs. Please send me your CV with a publication list if you are interested. 
 Note that we do not have "research student" positions.
@@ -22,11 +22,11 @@ Note that we do not have "research student" positions.
 ***
 
 ## News
-* Our paper has been accepted by EMNLP2024 Findings: T. Zetsu, Y. Arase, and T. Kajiwara. Edit-Constrained Decoding for Sentence Simplification, in Proc. of EMNLP 2024 Findings (Nov. 2024 to appear).
+* Our paper has been accepted by NAACL2025: Guanlin Li, Yuki Arase, Noel Crespi. Aligning Sentence Simplification with ESL Learner’s Proficiency for Language Acquisition (Apr. 2025 to appear). 
 * [Arase Lab website](https://arase-cl-lab.c.titech.ac.jp/) got launched!
 * Joined Tokyo Institute of Technology
 
-(Last update: 2024/09/20)
+(Last update: 2025/03/23)
 
 
 ## Research
@@ -55,6 +55,7 @@ Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main
 
 
 ## Selected Recent Publications
+* T. Zetsu, Y. Arase, and T. Kajiwara. Edit-Constrained Decoding for Sentence Simplification, in Proc. of EMNLP 2024 Findings, pp. 7161–7173 (Nov. 2024).
 * Y. Ogasa, T. Kajiwara, Y. Arase. Controllable Paraphrase Generation for Semantic and Lexical Similarities, in Proc. of Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pp. 3927–3942 (May 2024).
 * R. Miyano, T. Kajiwara, Y. Arase. Self-Ensemble of N-best Generation Hypotheses by Lexically Constrained Decoding, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), pp. 14653-14661 (Dec. 2023).
 * Y. Arase, H. Bao, and S. Yokoi. Unbalanced Optimal Transport for Unbalanced Word Alignment, in Proc. of the Annual Meeting of the Association for Computational Linguistics (ACL 2023), pp. 3966–3986 (July 2023).
