@@ -2,7 +2,7 @@
 
 Professor ([Japanese page](./index_jp.md))
 
-[School of Computing](https://educ.titech.ac.jp/cs/eng/), [Institute of Science Tokyo](https://www.isct.ac.jp/en), Japan
+[School of Computing](https://educ.titech.ac.jp/cs/eng/), [Institute of Science Tokyo (aka Tokyo Institute of Technology (TokyoTech))](https://www.isct.ac.jp/en), Japan
 
 [Arase Lab](https://arase-cl-lab.c.titech.ac.jp/)
 
