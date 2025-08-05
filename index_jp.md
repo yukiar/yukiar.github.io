@@ -17,6 +17,10 @@ Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 博士後期課程学生を募集しています。興味のある方は業績リスト付きのCVをお送りください。
 ※ 研究生の募集はしていません。
 
+* Megagon Labs Tokyo アドバイザリーボード（2018.7-）
+* 株式会社ギフトパッド 社外取締役（2023．2-2025.8）
+* 株式会社リバティーンズ 社外アドバイザ（2022.4-2024.3）
+
 ***
 
 [Publications](./publication.md) / [ACL Anthology](https://www.aclweb.org/anthology/people/y/yuki-arase/) / [Google Scholar](https://scholar.google.com/citations?user=uoL1Wr0AAAAJ&hl=en) / [Semantic Scholar](https://www.semanticscholar.org/author/Yuki-Arase/3043844)
