@@ -22,6 +22,7 @@ Note that we do not have "research student" positions.
 ***
 
 ## News
+* Gave a keynote talk at *SEM 2025: [Grounding Text Complexity Control in Defined Linguistic Difficulty](https://speakerdeck.com/yukiar/grounding-text-complexity-control-in-defined-linguistic-difficulty-keynote-at-star-sem2025) 
 * Our paper has been accepted by NAACL2025: Guanlin Li, Yuki Arase, Noel Crespi. Aligning Sentence Simplification with ESL Learner’s Proficiency for Language Acquisition (Apr. 2025 to appear). 
 * [Arase Lab website](https://arase-cl-lab.c.titech.ac.jp/) got launched!
 * Joined Tokyo Institute of Technology
@@ -77,6 +78,7 @@ Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main
 * Y. Arase and J. Tsujii: SPADE: Evaluation Dataset for Monolingual Phrase Alignment, in Proc. of Language Resources and Evaluation Conference (LREC 2018), (May 2018).
 
 ## Academic Service
+* Keynote at *SEM 2025: [Grounding Text Complexity Control in Defined Linguistic Difficulty](https://speakerdeck.com/yukiar/grounding-text-complexity-control-in-defined-linguistic-difficulty-keynote-at-star-sem2025)  
 * PC Chair: [IJCNLP-AACL2023](http://www.ijcnlp-aacl2023.org/), [SNL2021](http://www.am.sanken.osaka-u.ac.jp/SNL2021/index.html)
 * Senior Area Chair: [ACL2023](https://2023.aclweb.org/committees/program/)
 * Area Chair: ARR, ACL2020, 2021, EMNLP2021, COLING 2024

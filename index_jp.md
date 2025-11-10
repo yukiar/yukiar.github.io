@@ -28,6 +28,7 @@ Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 ***
 
 ## News
+* *SEM2025 で基調講演を行いました：[Grounding Text Complexity Control in Defined Linguistic Difficulty](https://speakerdeck.com/yukiar/grounding-text-complexity-control-in-defined-linguistic-difficulty-keynote-at-star-sem2025) 
 * NAACL2025 に論文が採択されました：Guanlin Li, Yuki Arase, Noel Crespi. Aligning Sentence Simplification with ESL Learner’s Proficiency for Language Acquisition (Apr. 2025 to appear). 
 * Forbes Japan [Women In Tech 30 発表：テクノロジー領域で未来を創造する30人の女性](https://forbesjapan.com/articles/detail/74347/page4) に選出されました。ご推薦いただいたみなさま、ありがとうございました！
 * [東工大荒瀬研 Website](https://arase-cl-lab.c.titech.ac.jp/ja/) が出来ました。
@@ -86,6 +87,7 @@ Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main
 * Y. Arase and J. Tsujii: SPADE: Evaluation Dataset for Monolingual Phrase Alignment, in Proc. of Language Resources and Evaluation Conference (LREC 2018), (May 2018).
 
 ## Academic Service
+* Keynote at *SEM 2025: [Grounding Text Complexity Control in Defined Linguistic Difficulty](https://speakerdeck.com/yukiar/grounding-text-complexity-control-in-defined-linguistic-difficulty-keynote-at-star-sem2025)  
 * PC Chair: [IJCNLP-AACL2023](http://www.ijcnlp-aacl2023.org/), [SNL2021](http://www.am.sanken.osaka-u.ac.jp/SNL2021/index.html)
 * Senior Area Chair: [ACL2023](https://2023.aclweb.org/committees/program/)
 * Area Chair: ARR, ACL2020, 2021, EMNLP2021
