@@ -22,12 +22,12 @@ Note that we do not have "research student" positions.
 ***
 
 ## News
+* Our paper has been accepted by ACL 2026 Findings: Guanting Luo, Noriki Nishida, Yuji Matsumoto, and Yuki Arase. 2026. Applicability Condition Extraction for Therapeutic Drug-Disease Relations. In Findings of the Association for Computational Linguistics: ACL 2026, pp. 3135–3148, (July 2026).
 * Gave a keynote talk at *SEM 2025: [Grounding Text Complexity Control in Defined Linguistic Difficulty](https://speakerdeck.com/yukiar/grounding-text-complexity-control-in-defined-linguistic-difficulty-keynote-at-star-sem2025) 
-* Our paper has been accepted by NAACL2025: Guanlin Li, Yuki Arase, Noel Crespi. Aligning Sentence Simplification with ESL Learner’s Proficiency for Language Acquisition (Apr. 2025 to appear). 
 * [Arase Lab website](https://arase-cl-lab.c.titech.ac.jp/) got launched!
 * Joined Tokyo Institute of Technology
 
-(Last update: 2025/03/23)
+(Last update: 2026/07/19)
 
 
 ## Research
@@ -56,6 +56,8 @@ Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main
 
 
 ## Selected Recent Publications
+* G. Li, Y. Arase, N. Crespi. Aligning Sentence Simplification with ESL Learner's Proficiency for Language Acquisition, in Proceedings of Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL), pp. 492–507 (Apr. 2025).
+* R. Miyano and Y. Arase. Adaptive LoRA Merge with Parameter Pruning for Low-Resource Generation. in Findings of the Association for Computational Linguistics: ACL 2025, pp. 19353–19366 (July 2025).
 * T. Zetsu, Y. Arase, and T. Kajiwara. Edit-Constrained Decoding for Sentence Simplification, in Proc. of EMNLP 2024 Findings, pp. 7161–7173 (Nov. 2024).
 * Y. Ogasa, T. Kajiwara, Y. Arase. Controllable Paraphrase Generation for Semantic and Lexical Similarities, in Proc. of Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pp. 3927–3942 (May 2024).
 * R. Miyano, T. Kajiwara, Y. Arase. Self-Ensemble of N-best Generation Hypotheses by Lexically Constrained Decoding, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), pp. 14653-14661 (Dec. 2023).
@@ -78,13 +80,17 @@ Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main
 * Y. Arase and J. Tsujii: SPADE: Evaluation Dataset for Monolingual Phrase Alignment, in Proc. of Language Resources and Evaluation Conference (LREC 2018), (May 2018).
 
 ## Academic Service
+* Invited talk at Singapore Symposium on Natural Language Processing: [What Does Simple Mean? Grounded Text Simplification](https://ssnlp2026.github.io/)
 * Keynote at *SEM 2025: [Grounding Text Complexity Control in Defined Linguistic Difficulty](https://speakerdeck.com/yukiar/grounding-text-complexity-control-in-defined-linguistic-difficulty-keynote-at-star-sem2025)  
 * PC Chair: [IJCNLP-AACL2023](http://www.ijcnlp-aacl2023.org/), [SNL2021](http://www.am.sanken.osaka-u.ac.jp/SNL2021/index.html)
 * Senior Area Chair: [ACL2023](https://2023.aclweb.org/committees/program/)
+* Associate Editor: Computational Linguistics Journal (2024-current) 
 * Area Chair: ARR, ACL2020, 2021, EMNLP2021, COLING 2024
-* Publicity and Social Media Chair: ACL2024
+* Tutorial Chair: ACL 2024
+* Publicity and Social Media Chair: ACL2024, EMNLP 2026
 * Publication Chair for ACL2020 
 * Reviewer: ACL, EMNLP, NAACL, EACL, TACL, Computational Linguistics, etc.  
-* Member-at-large: Asian Federation of Natural Language Processing(AFNLP)
-* Director: The Association for Natural Language Processing, Japan, Information Processing Society of Japan
+* Member-at-large: Association for Computational Linguistics (ACL) Executive Committee (2024-current), Asian Federation of Natural Language Processing(AFNLP) Executive Committee (2022-2024)
+* Director: The Association for Natural Language Processing, Japan, Information Processing Society of Japan (2020-current), Information Processing Society of Japan (2022-2023)
+* VP-elect: ACL SIGLEX (2026-current)
 

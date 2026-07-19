@@ -28,14 +28,14 @@ Twitter: [@Yuki_arase](https://twitter.com/Yuki_arase)
 ***
 
 ## News
+* ACL 2026 Findings に論文が採択されました：Guanting Luo, Noriki Nishida, Yuji Matsumoto, and Yuki Arase. 2026. Applicability Condition Extraction for Therapeutic Drug-Disease Relations. In Findings of the Association for Computational Linguistics: ACL 2026, pp. 3135–3148, (July 2026). 
 * *SEM2025 で基調講演を行いました：[Grounding Text Complexity Control in Defined Linguistic Difficulty](https://speakerdeck.com/yukiar/grounding-text-complexity-control-in-defined-linguistic-difficulty-keynote-at-star-sem2025) 
-* NAACL2025 に論文が採択されました：Guanlin Li, Yuki Arase, Noel Crespi. Aligning Sentence Simplification with ESL Learner’s Proficiency for Language Acquisition (Apr. 2025 to appear). 
 * Forbes Japan [Women In Tech 30 発表：テクノロジー領域で未来を創造する30人の女性](https://forbesjapan.com/articles/detail/74347/page4) に選出されました。ご推薦いただいたみなさま、ありがとうございました！
 * [東工大荒瀬研 Website](https://arase-cl-lab.c.titech.ac.jp/ja/) が出来ました。
 * 東京工業大学情報理工学院に着任しました。
 * [『IT Text 自然言語処理の基礎』](https://www.ohmsha.co.jp/book/9784274229008/)（岡﨑 直観, 荒瀬 由紀, 鈴木 潤, 鶴岡 慶雅, 宮尾 祐介 共著）、オーム社より発売中
 
-(Last update: 2025/03/23)
+(Last update: 2026/07/19)
 
 
 ## Research
@@ -63,6 +63,8 @@ Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main
 
 
 ## Selected Recent Publications
+* G. Li, Y. Arase, N. Crespi. Aligning Sentence Simplification with ESL Learner's Proficiency for Language Acquisition, in Proceedings of Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL), pp. 492–507 (Apr. 2025).
+* R. Miyano and Y. Arase. Adaptive LoRA Merge with Parameter Pruning for Low-Resource Generation. in Findings of the Association for Computational Linguistics: ACL 2025, pp. 19353–19366 (July 2025).
 * T. Zetsu, Y. Arase, and T. Kajiwara. Edit-Constrained Decoding for Sentence Simplification, in Proc. of EMNLP 2024 Findings, pp. 7161–7173 (Nov. 2024).
 * Y. Ogasa, T. Kajiwara, Y. Arase. Controllable Paraphrase Generation for Semantic and Lexical Similarities, in Proc. of Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pp. 3927–3942 (May 2024).
 * R. Miyano, T. Kajiwara, Y. Arase. Self-Ensemble of N-best Generation Hypotheses by Lexically Constrained Decoding, in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), pp. 14653-14661 (Dec. 2023).
@@ -87,14 +89,18 @@ Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main
 * Y. Arase and J. Tsujii: SPADE: Evaluation Dataset for Monolingual Phrase Alignment, in Proc. of Language Resources and Evaluation Conference (LREC 2018), (May 2018).
 
 ## Academic Service
+* Invited talk at Singapore Symposium on Natural Language Processing: [What Does Simple Mean? Grounded Text Simplification](https://ssnlp2026.github.io/)
 * Keynote at *SEM 2025: [Grounding Text Complexity Control in Defined Linguistic Difficulty](https://speakerdeck.com/yukiar/grounding-text-complexity-control-in-defined-linguistic-difficulty-keynote-at-star-sem2025)  
 * PC Chair: [IJCNLP-AACL2023](http://www.ijcnlp-aacl2023.org/), [SNL2021](http://www.am.sanken.osaka-u.ac.jp/SNL2021/index.html)
 * Senior Area Chair: [ACL2023](https://2023.aclweb.org/committees/program/)
+* Associate Editor: Computational Linguistics Journal (2024-current) 
 * Area Chair: ARR, ACL2020, 2021, EMNLP2021
-* Publicity and Social Media Chair: ACL2024
+* Tutorial Chair: ACL 2024
+* Publicity and Social Media Chair: ACL2024, EMNLP 2026
 * Publication Chair for ACL2020 
-* Member-at-large: Asian Federation of Natural Language Processing(AFNLP)
-* 言語処理学会 理事（2020年3月～）
+* Member-at-large: Association for Computational Linguistics (ACL) Executive Committee (2024-current), Asian Federation of Natural Language Processing(AFNLP) Executive Committee (2022-2024)
+* VP-elect: ACL SIGLEX (2026-current)
+* 学会理事: 言語処理学会（2020年3月～）, 情報処理学会（2022-2023年）
 * 情報処理学会自然言語処理研究会 幹事（2015年4月～2019年3月）
 * 言語処理学会論文誌「自然言語処理」編集委員（2015年9月～2019年9月）
 * Reviewer: ACL, EMNLP, NAACL, EACL, TACL, Computational Linguistics, etc.  
