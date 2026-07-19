@@ -101,7 +101,7 @@ Related papers: [definition generation](https://aclanthology.org/2021.emnlp-main
 * Member-at-large: Association for Computational Linguistics (ACL) Executive Committee (2024-current), Asian Federation of Natural Language Processing(AFNLP) Executive Committee (2022-2024)
 * VP-elect: ACL SIGLEX (2026-current)
 * 学会理事: 言語処理学会（2020年3月～）, 情報処理学会（2022-2023年）
-* 編集院長: 言語処理学会論文誌「自然言語処理」（2026年3月～）
+* 編集委員長: 言語処理学会論文誌「自然言語処理」（2026年3月～）
 * 情報処理学会自然言語処理研究会 幹事（2015年4月～2019年3月）
 * 言語処理学会論文誌「自然言語処理」編集委員（2015年9月～2019年9月）
 * Reviewer: ACL, EMNLP, NAACL, EACL, TACL, Computational Linguistics, etc.  
